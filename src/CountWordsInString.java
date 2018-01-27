@@ -16,9 +16,6 @@ public class CountWordsInString {
             int c = input.charAt(i);
             int c2 = input.charAt(i+1);
 
-            System.out.println((65<=c && c<=90)||(97<=c && c<=122));
-            System.out.println((c2==' ' || c2=='\n' || c2=='\t'));
-
             if(((65<=c && c<=90)||(97<=c && c<=122)) && (c2==' ' || c2=='\n' || c2=='\t')){
                 word_count++;
             }
