@@ -9,4 +9,4 @@ Following programming questions are present in this repository in JAVA with near
 3. Dividing String In N Equal Parts (DividingStringInNEqualParts class)
 4. Longest Span Same Sum Two Binary Arrays (LongestSpanSameSumTwoBinaryArrays class)
 5. Second Most Frequent Char In String (SecondMostFreqCharInString class)
-6. Simple Binary Tree Example (binary_tree_java_package)
+6. Simple Binary Tree Example (binary_tree_java package)
