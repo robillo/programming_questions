@@ -10,3 +10,4 @@ Following programming questions are present in this repository in JAVA with near
 4. Longest Span Same Sum Two Binary Arrays (LongestSpanSameSumTwoBinaryArrays class)
 5. Second Most Frequent Char In String (SecondMostFreqCharInString class)
 6. Simple Binary Tree Example (binary_tree_java package)
+7. Linked List (Using Custom Node) Example (linked_list_java package)
