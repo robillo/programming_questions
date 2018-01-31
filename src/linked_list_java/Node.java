@@ -10,7 +10,7 @@ public class Node {
         next = null;
     }
 
-    public int getData() {
+    int getData() {
         return data;
     }
 
