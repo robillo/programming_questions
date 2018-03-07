@@ -11,3 +11,5 @@ Following programming questions are present in this repository in JAVA with near
 5. Second Most Frequent Char In String (SecondMostFreqCharInString class)
 6. Simple Binary Tree Example (binary_tree_java package)
 7. Linked List (Using Custom stack_java) Example (linked_list_java package)
+8. Queue using LinkedList (queue_java/Queue) and its implementation (queue_java/QueueTest)
+9. Level Order Traversal of a Binary Tree Iterative Solution (binary_tree_traversal/LevelOrderTreeTraversal)
