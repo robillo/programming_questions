@@ -2,7 +2,7 @@ package binary_tree_java;
 
 public class BinaryTree {
 
-    private Node root;
+    public Node root;
 
     private BinaryTree() {
         root = null;

@@ -1,15 +1,14 @@
-package queue_java;
+package binary_tree_java;
 
-class Node {
+public class Node {
 
     private int value;
-    private Node front;
-    private Node rear;
+    Node left, right;
 
     public Node(int value) {
         this.value = value;
-        front = null;
-        rear = null;
+        left = null;
+        right = null;
     }
 
     public int getValue() {

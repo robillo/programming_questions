@@ -9,27 +9,38 @@ public class Queue {
     int capacity = 0; //to limit the number of elements to be inserted in the queue
     List<Integer> queue = new ArrayList<>();
 
-    Queue(int capacity) {
+    public Queue(int capacity) {
         this.capacity = capacity;
-        front = -1;
-        rear = -1;
         size = 0;
+        rear = -1;
+        front = 0;
     }
 
-    void enqueue(int item) {
+    public void enqueue(int item) {
         if(isFull())
             return;
-        rear++;
-        size++;
-        queue.add(item);
+        if(queue.size()>rear){
+            rear++;
+            size++;
+            queue.add(rear, item);
+        }
+        else {
+            rear++;
+            size++;
+            queue.add(queue.size(), item);
+        }
     }
 
-    void dequeue() {
+    public void dequeue() {
         if(isEmpty())
             return;
-        queue.remove(rear);
-        rear--;
-        size--;
+        if(queue.size()>front){
+            Integer val = queue.remove(front);
+            if(val==0){
+                front++;
+                size--;
+            }
+        }
     }
 
     int getFront() {
@@ -40,15 +51,15 @@ public class Queue {
         return rear;
     }
 
+    int getFrontNode() { return queue.get(front); }
+
+    int getRearNode() { return queue.get(rear); }
+
     private boolean isFull() {
-        return (size == capacity);
+        return (queue.size() == capacity);
     }
 
-    private boolean isEmpty() {
-        return (size == 0);
-    }
+    private boolean isEmpty() { return (queue.size() == 0); }
 
-    Object[] getArrayValues() {
-        return queue.toArray();
-    }
+    public Object[] getArrayValues() { return queue.toArray(); }
 }
