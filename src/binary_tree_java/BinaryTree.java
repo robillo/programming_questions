@@ -40,6 +40,8 @@ public class BinaryTree {
         //second level
         tree.root.left.left = new Node(4);
         tree.root.left.right = new Node(5);
+
+        tree.root.left.left.left = new Node(6);
         /* 4 and 5 becomes left and right children of 2 resp.
                     1
                 /       \

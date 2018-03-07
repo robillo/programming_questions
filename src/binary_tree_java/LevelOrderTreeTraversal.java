@@ -20,10 +20,10 @@ public class LevelOrderTreeTraversal {
         Node tempNode = tree.root;
         queue.enqueue(tempNode);
 
-        while (tempNode!=null){
+        while(!queue.isEmpty()){
             System.out.println(queue.getFrontNode().getValue());
-            if(tempNode.right!=null) queue.enqueue(tempNode.left);
-            if(tempNode.left!=null) queue.enqueue(tempNode.right);
+            if(tempNode.left!=null) queue.enqueue(tempNode.left);
+            if(tempNode.right!=null) queue.enqueue(tempNode.right);
 
             queue.dequeue();
             tempNode = queue.getFrontNode();
