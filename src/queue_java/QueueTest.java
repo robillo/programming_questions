@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class QueueTest {
 
-    static Queue queue = new Queue(11); //capacity limit
+    static Queue queue = new Queue(8); //capacity limit
 
     public static void main(String[] args) {
         queue.enqueue(1);
@@ -19,7 +19,7 @@ public class QueueTest {
         queue.enqueue(7);
         queue.enqueue(8);
         queue.enqueue(9);
-        queue.enqueue(10);
+        queue.enqueue(10);      //won't be inserted because of capacity limit
 
         System.out.println(Arrays.toString(queue.getArrayValues()));
 
@@ -29,7 +29,7 @@ public class QueueTest {
         System.out.println(Arrays.toString(queue.getArrayValues()));
 
         queue.enqueue(11);
-        queue.enqueue(12);      //won't be inserted because of capacity limit
+        queue.enqueue(12);
 
         System.out.println(Arrays.toString(queue.getArrayValues()));
 

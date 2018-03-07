@@ -56,7 +56,7 @@ public class Queue {
     int getRearNode() { return queue.get(rear); }
 
     private boolean isFull() {
-        return (queue.size() == capacity);
+        return (queue.size() > capacity);
     }
 
     private boolean isEmpty() { return (queue.size() == 0); }
