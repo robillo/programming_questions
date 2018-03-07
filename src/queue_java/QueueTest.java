@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class QueueTest {
 
-    static Queue queue = new Queue(8); //capacity limit
+    static Queue queue = new Queue(9); //capacity limit
 
     public static void main(String[] args) {
         queue.enqueue(1);
@@ -40,5 +40,8 @@ public class QueueTest {
         queue.dequeue();
 
         System.out.println(Arrays.toString(queue.getArrayValues()));
+
+        System.out.println("Starting Node: " + queue.getFrontNode());
+        System.out.println("Ending Node: " + queue.getRearNode());
     }
 }

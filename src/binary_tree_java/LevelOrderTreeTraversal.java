@@ -21,12 +21,12 @@ public class LevelOrderTreeTraversal {
         queue.enqueue(tempNode);
 
         while (tempNode!=null){
-            System.out.println(Arrays.toString(queue.getArrayValues()));
+            System.out.println(queue.getFrontNode().getValue());
             if(tempNode.right!=null) queue.enqueue(tempNode.left);
             if(tempNode.left!=null) queue.enqueue(tempNode.right);
 
-            tempNode = queue.getFrontNode();
             queue.dequeue();
+            tempNode = queue.getFrontNode();
         }
 
     }

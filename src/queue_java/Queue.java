@@ -5,30 +5,19 @@ import java.util.List;
 
 public class Queue {
 
-    int front, rear, size;
+    int front;
     int capacity = 0; //to limit the number of elements to be inserted in the queue
     List<Integer> queue = new ArrayList<>();
 
     public Queue(int capacity) {
         this.capacity = capacity;
-        size = 0;
-        rear = -1;
         front = 0;
     }
 
     public void enqueue(int item) {
         if(isFull())
             return;
-        if(queue.size()>rear){
-            rear++;
-            size++;
-            queue.add(rear, item);
-        }
-        else {
-            rear++;
-            size++;
-            queue.add(queue.size(), item);
-        }
+        queue.add(queue.size(), item);
     }
 
     public void dequeue() {
@@ -38,7 +27,6 @@ public class Queue {
             Integer val = queue.remove(front);
             if(val==0){
                 front++;
-                size--;
             }
         }
     }
@@ -48,15 +36,15 @@ public class Queue {
     }
 
     int getRear() {
-        return rear;
+        return queue.size()-1;
     }
 
     int getFrontNode() { return queue.get(front); }
 
-    int getRearNode() { return queue.get(rear); }
+    int getRearNode() { return queue.get(queue.size()-1); }
 
     private boolean isFull() {
-        return (queue.size() > capacity);
+        return (queue.size() == capacity);
     }
 
     private boolean isEmpty() { return (queue.size() == 0); }

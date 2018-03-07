@@ -46,8 +46,8 @@ public class BinaryTree {
                2          3
              /   \       /  \
             4    5    null  null
-           /   \
-          6    null
+           /     \
+          6      null
          */
 
         return tree;

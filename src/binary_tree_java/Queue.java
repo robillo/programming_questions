@@ -6,63 +6,58 @@ import java.util.List;
 
 public class Queue {
 
-    int front, rear, size;
-    int capacity; //to limit the number of elements to be inserted in the queue
+    int front;
+    int capacity = 0; //to limit the number of elements to be inserted in the queue
     List<Node> queue = new ArrayList<>();
 
     public Queue(int capacity) {
         this.capacity = capacity;
-        front = size = 0;
-        rear = -1;
+        front = 0;
     }
 
     public void enqueue(Node item) {
         if(isFull())
             return;
-        rear++;
-        size++;
-        queue.add(rear, item);
+        queue.add(queue.size(), item);
     }
 
     public void dequeue() {
         if(isEmpty())
             return;
-        queue.remove(front);
-        rear--;
-        size--;
+        if(queue.size()>front){
+            Integer val = queue.remove(front).getValue();
+            if(val==0){
+                front++;
+            }
+        }
     }
 
     int getFront() {
-        return queue.get(front).getValue();
+        return front;
     }
 
     int getRear() {
-        return queue.get(rear).getValue();
+        return queue.size()-1;
     }
 
     Node getFrontNode() {
-        if (rear==-1) return null;
-        return queue.get(rear);
+        if(queue.size()>0) return queue.get(front);
+        else return null;
     }
 
     Node getRearNode() {
-        if (size==0) return null;
-        return queue.get(rear);
+        return queue.get(queue.size()-1);
     }
 
     private boolean isFull() {
-        return (size == capacity);
+        return (queue.size() == capacity);
     }
 
     public boolean isEmpty() {
-        return (size == 0);
+        return (queue.size() == 0);
     }
 
-    public int[] getArrayValues() {
-        int[] arr = new int[size];
-        for(int i=0; i<size; i++){
-            arr[i] = queue.get(i).getValue();
-        }
-        return arr;
+    public Object[] getArrayValues() {
+        return queue.toArray();
     }
 }
