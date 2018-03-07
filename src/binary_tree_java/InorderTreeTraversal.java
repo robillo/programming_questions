@@ -18,7 +18,7 @@ public class InorderTreeTraversal {
         inorderTraversal(tree.root);
     }
 
-    private static void inorderTraversal(Node root) {
+    public static void inorderTraversal(Node root) {
         if(root == null)
             return;
         inorderTraversal(root.left);
