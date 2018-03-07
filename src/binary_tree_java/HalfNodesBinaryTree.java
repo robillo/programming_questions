@@ -18,18 +18,18 @@ public class HalfNodesBinaryTree {
 
         BinaryTree tree = BinaryTree.inflateSampleTree();
 
-        traversePreorderAndCountLeaves(tree.root);
+        traversePreorderAndCountHalves(tree.root);
 
         System.out.println("Number of half nodes in this tree: " + numHalves);
     }
 
-    private static void traversePreorderAndCountLeaves(Node root) {
+    private static void traversePreorderAndCountHalves(Node root) {
         if(root==null)
             return;
         if((root.left == null && root.right != null) || (root.left != null && root.right == null)) //half node condition
             numHalves++;
 
-        traversePreorderAndCountLeaves(root.left);
-        traversePreorderAndCountLeaves(root.right);
+        traversePreorderAndCountHalves(root.left);
+        traversePreorderAndCountHalves(root.right);
     }
 }
