@@ -37,7 +37,7 @@ public class Queue {
     }
 
     int getRear() {
-        return queue.size()-1;
+        return getFront() + queue.size() - 1;
     }
 
     Node getFrontNode() {
@@ -59,5 +59,13 @@ public class Queue {
 
     public Object[] getArrayValues() {
         return queue.toArray();
+    }
+
+    Node getNodeByIndex(int index) {
+        return queue.get(index);
+    }
+
+    int getSize() {
+        return queue.size();
     }
 }

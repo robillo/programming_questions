@@ -6,8 +6,6 @@ import java.util.List;
 
 public class LevelOrderTreeTraversal {
 
-    private static List<Integer> traversedItems = new ArrayList<>();
-
     public static void main(String[] args) {
         BinaryTree tree = BinaryTree.inflateSampleTree();
 
