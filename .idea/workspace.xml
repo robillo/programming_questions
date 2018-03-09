@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binary_tree_java/LevelOrderTraversalLineByLineOfTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binary_tree_java/DeleteLeafValueWithValueX.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/binary_tree_java/LevelOrderTreeTraversal.java" afterPath="$PROJECT_DIR$/src/binary_tree_java/LevelOrderTreeTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/binary_tree_java/Queue.java" afterPath="$PROJECT_DIR$/src/binary_tree_java/Queue.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,41 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FullNodesInBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/binary_tree_java/FullNodesInBinaryTree.java">
+      <file leaf-file-name="DeleteLeafValueWithValueX.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/binary_tree_java/DeleteLeafValueWithValueX.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="555">
+              <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintNodesAtKthDistanceFromRoot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/binary_tree_java/PrintNodesAtKthDistanceFromRoot.java">
+      <file leaf-file-name="LeafNodesBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binary_tree_java/LeafNodesBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="38" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LevelOrderTraversalLineByLineOfTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/binary_tree_java/LevelOrderTraversalLineByLineOfTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/binary_tree_java/BinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-54">
-              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -95,6 +73,7 @@
         <option value="$PROJECT_DIR$/src/binary_tree_java/LevelOrderTreeTraversal.java" />
         <option value="$PROJECT_DIR$/src/binary_tree_java/Queue.java" />
         <option value="$PROJECT_DIR$/src/binary_tree_java/LevelOrderTraversalLineByLineOfTree.java" />
+        <option value="$PROJECT_DIR$/src/binary_tree_java/DeleteLeafValueWithValueX.java" />
       </list>
     </option>
   </component>
@@ -175,7 +154,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LevelOrderTraversalLineByLineOfTree">
+  <component name="RunManager" selected="Application.DeleteLeafValueWithValueX">
+    <configuration name="DeleteLeafValueWithValueX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="binary_tree_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="binary_tree_java.DeleteLeafValueWithValueX" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="programming_questions" />
+      <envs />
+    </configuration>
     <configuration name="LevelOrderTraversalLineByLineOfTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -222,25 +220,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="binary_tree_java.PrintNodesAtKthDistanceFromRoot" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="programming_questions" />
-      <envs />
-    </configuration>
-    <configuration name="ReplaceNodeWithDepthInBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="binary_tree_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="binary_tree_java.ReplaceNodeWithDepthInBinaryTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -354,18 +333,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.PreorderTreeTraversal" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ReplaceNodeWithDepthInBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PrintNodesAtKthDistanceFromRoot" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SumOfNodesAtKthLevelOfTree" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LevelOrderTraversalLineByLineOfTree" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PrintNodesAtKthDistanceFromRoot" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SumOfNodesAtKthLevelOfTree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LevelOrderTraversalLineByLineOfTree" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DeleteLeafValueWithValueX" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LevelOrderTraversalLineByLineOfTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SumOfNodesAtKthLevelOfTree" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PrintNodesAtKthDistanceFromRoot" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PreorderTreeTraversal" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ReplaceNodeWithDepthInBinaryTree" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DeleteLeafValueWithValueX" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LevelOrderTraversalLineByLineOfTree" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SumOfNodesAtKthLevelOfTree" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PrintNodesAtKthDistanceFromRoot" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PreorderTreeTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -443,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520490187629</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Level order traversal line by line">
+      <created>1520609607584</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1520609607584</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -458,7 +444,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30235294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30235294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -490,7 +476,8 @@
     <MESSAGE value="full nodes" />
     <MESSAGE value="replace node with depth in a binary tree" />
     <MESSAGE value="print nodes at kth level from root, sum of nodes at kth level from root" />
-    <option name="LAST_COMMIT_MESSAGE" value="print nodes at kth level from root, sum of nodes at kth level from root" />
+    <MESSAGE value="Level order traversal line by line" />
+    <option name="LAST_COMMIT_MESSAGE" value="Level order traversal line by line" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -672,25 +659,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/binary_tree_java/LeafNodesBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/binary_tree_java/HalfNodesBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="5" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binary_tree_java/FullNodesInBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,14 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binary_tree_java/PrintNodesAtKthDistanceFromRoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="38" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,8 +737,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binary_tree_java/LevelOrderTraversalLineByLineOfTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
+        <state relative-caret-position="440">
           <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_tree_java/PrintNodesAtKthDistanceFromRoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="38" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_tree_java/FullNodesInBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_tree_java/LeafNodesBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_tree_java/DeleteLeafValueWithValueX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
           <folding />
         </state>
       </provider>
