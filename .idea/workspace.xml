@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binary_tree_java/SumOfAllNodesOfTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binary_tree_java/MaxAndMinValueInATree.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumOfAllNodesOfTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SumOfAllNodesOfTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/binary_tree_java/SumOfAllNodesOfTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxAndMinValueInATree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/binary_tree_java/MaxAndMinValueInATree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -85,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/binary_tree_java/LevelOrderTraversalLineByLineOfTree.java" />
         <option value="$PROJECT_DIR$/src/binary_tree_java/DeleteLeafValueWithValueX.java" />
         <option value="$PROJECT_DIR$/src/binary_tree_java/SumOfAllNodesOfTree.java" />
+        <option value="$PROJECT_DIR$/src/binary_tree_java/MaxAndMinValueInATree.java" />
       </list>
     </option>
   </component>
@@ -165,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumOfAllNodesOfTree">
+  <component name="RunManager" selected="Application.MaxAndMinValueInATree">
     <configuration name="DeleteLeafValueWithValueX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -204,14 +215,14 @@
       <module name="programming_questions" />
       <envs />
     </configuration>
-    <configuration name="PrintNodesAtKthDistanceFromRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxAndMinValueInATree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="binary_tree_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="binary_tree_java.PrintNodesAtKthDistanceFromRoot" />
+      <option name="MAIN_CLASS_NAME" value="binary_tree_java.MaxAndMinValueInATree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -343,19 +354,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PrintNodesAtKthDistanceFromRoot" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SumOfNodesAtKthLevelOfTree" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LevelOrderTraversalLineByLineOfTree" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DeleteLeafValueWithValueX" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SumOfAllNodesOfTree" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SumOfNodesAtKthLevelOfTree" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LevelOrderTraversalLineByLineOfTree" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DeleteLeafValueWithValueX" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SumOfAllNodesOfTree" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MaxAndMinValueInATree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SumOfAllNodesOfTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DeleteLeafValueWithValueX" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LevelOrderTraversalLineByLineOfTree" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SumOfNodesAtKthLevelOfTree" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PrintNodesAtKthDistanceFromRoot" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MaxAndMinValueInATree" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SumOfAllNodesOfTree" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DeleteLeafValueWithValueX" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LevelOrderTraversalLineByLineOfTree" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SumOfNodesAtKthLevelOfTree" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520610374640</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="sum of all nodes in a tree">
+      <created>1520704899033</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1520704899033</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -462,7 +480,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30235294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30235294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -496,7 +514,8 @@
     <MESSAGE value="print nodes at kth level from root, sum of nodes at kth level from root" />
     <MESSAGE value="Level order traversal line by line" />
     <MESSAGE value="Delete leaf value with value X" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete leaf value with value X" />
+    <MESSAGE value="sum of all nodes in a tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum of all nodes in a tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -777,6 +796,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_tree_java/MaxAndMinValueInATree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
           <folding />
         </state>
       </provider>
