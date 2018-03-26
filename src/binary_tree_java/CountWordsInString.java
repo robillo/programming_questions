@@ -1,3 +1,5 @@
+package binary_tree_java;
+
 import java.util.Scanner;
 
 public class CountWordsInString {

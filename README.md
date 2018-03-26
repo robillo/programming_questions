@@ -4,11 +4,11 @@ This repositories hosts various programming questions that one person should cov
 
 Following programming questions are present in this repository in JAVA with near-best cases of time complexities:
 
-1. Char Count At Same Position As English Characters (CharCountAtSamePositionAsEnglishCharacters class)
-2. Count Words In String (CountWordsInString class)
-3. Dividing String In N Equal Parts (DividingStringInNEqualParts class)
-4. Longest Span Same Sum Two Binary Arrays (LongestSpanSameSumTwoBinaryArrays class)
-5. Second Most Frequent Char In String (SecondMostFreqCharInString class)
+1. Char Count At Same Position As English Characters (binary_tree_java.CharCountAtSamePositionAsEnglishCharacters class)
+2. Count Words In String (binary_tree_java.CountWordsInString class)
+3. Dividing String In N Equal Parts (binary_tree_java.DividingStringInNEqualParts class)
+4. Longest Span Same Sum Two Binary Arrays (binary_tree_java.LongestSpanSameSumTwoBinaryArrays class)
+5. Second Most Frequent Char In String (binary_tree_java.SecondMostFreqCharInString class)
 6. Simple Binary Tree Example (binary_tree_java package)
 7. Linked List (Using Custom stack_java) Example (linked_list_java package)
 8. Queue using LinkedList (queue_java/Queue) and its implementation (queue_java/QueueTest)
