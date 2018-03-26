@@ -2,7 +2,9 @@
 
 This repositories hosts various programming questions that one person should cover before applying for programming interviews. Programming (Data Structures and Algorithms) make the foundation of a good programmer, and only questions related to programming are asked (and not of a particular Specialization) while giving an interview in any good company. It is recommended to any IT specialist or beginner to go through these questions / algorithms thoroughly.
 
-### Following programming questions are present in this repository in JAVA with near-best cases of time complexities:
+## Following programming questions are present in this repository with near-best time complexities:
+
+## TREE QUESTIONS
 
 1. Char Count At Same Position As English Characters
   (CharCountAtSamePositionAsEnglishCharacters class)
@@ -77,3 +79,21 @@ This repositories hosts various programming questions that one person should cov
     
 24. Level with maximum number of nodes 
     (binary_tree_java/LevelWithMaxNumberOfNodes)
+    
+## DYNAMIC PROGRAMMING QUESTIONS
+
+## GREEDY PROGRAMMING QUESTIONS
+
+## GRAPH QUESTIONS
+
+## TRIE QUESTIONS
+
+## HASHING QUESTIONS
+
+## QUEUE QUESTIONS
+
+## STACK QUESTIONS
+
+## LINKED LISTS QUESTIONS
+
+## ARRAYS QUESTIONS
