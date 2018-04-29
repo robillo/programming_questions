@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greedy_programming_java/ActivitySelectionProblem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greedy_programming_java/JobSequencingProblem.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ActivitySelectionProblem.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JobSequencingProblem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/greedy_programming_java/JobSequencingProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-192">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActivitySelectionProblem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/greedy_programming_java/ActivitySelectionProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-267">
-              <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="278">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/binary_tree_java/LevelWithMaxNumberOfNodes.java" />
         <option value="$PROJECT_DIR$/src/binary_tree_java/SecondMostFreqCharInString.java" />
         <option value="$PROJECT_DIR$/src/greedy_programming_java/ActivitySelectionProblem.java" />
+        <option value="$PROJECT_DIR$/src/greedy_programming_java/JobSequencingProblem.java" />
       </list>
     </option>
   </component>
@@ -140,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ActivitySelectionProblem">
+  <component name="RunManager" selected="Application.JobSequencingProblem">
     <configuration name="ActivitySelectionProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -160,14 +171,14 @@
       <module name="programming_questions" />
       <envs />
     </configuration>
-    <configuration name="DeleteLeafValueWithValueX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="JobSequencingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="binary_tree_java.*" />
+          <option name="PATTERN" value="greedy_programming_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="binary_tree_java.DeleteLeafValueWithValueX" />
+      <option name="MAIN_CLASS_NAME" value="greedy_programming_java.JobSequencingProblem" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -318,19 +329,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DeleteLeafValueWithValueX" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SumOfAllNodesOfTree" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MaxAndMinValueInATree" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LevelWithMaxNumberOfNodes" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ActivitySelectionProblem" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SumOfAllNodesOfTree" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MaxAndMinValueInATree" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LevelWithMaxNumberOfNodes" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ActivitySelectionProblem" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JobSequencingProblem" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ActivitySelectionProblem" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LevelWithMaxNumberOfNodes" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MaxAndMinValueInATree" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SumOfAllNodesOfTree" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DeleteLeafValueWithValueX" />
+        <item index="0" class="java.lang.String" itemvalue="Application.JobSequencingProblem" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ActivitySelectionProblem" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LevelWithMaxNumberOfNodes" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MaxAndMinValueInATree" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SumOfAllNodesOfTree" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522080104816</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="greedy : activity selection problem">
+      <created>1524992840047</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1524992840047</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -463,10 +481,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30235294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30235294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.49722221" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -503,7 +521,8 @@
     <MESSAGE value="max and min values in a tree" />
     <MESSAGE value="level with max number of nodes in a tree" />
     <MESSAGE value="packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="packages" />
+    <MESSAGE value="greedy : activity selection problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="greedy : activity selection problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -841,8 +860,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/greedy_programming_java/ActivitySelectionProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-267">
-          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state relative-caret-position="278">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greedy_programming_java/JobSequencingProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding />
         </state>
       </provider>
