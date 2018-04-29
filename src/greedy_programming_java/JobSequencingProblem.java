@@ -22,14 +22,6 @@ public class JobSequencingProblem {
 
         sortBasedOnMaxProfit(d, p, n);
 
-//        for(int i=0; i<n; i++) {
-//            System.out.print(d[i] + " ");
-//        }
-//        System.out.println();
-//        for(int i=0; i<n; i++) {
-//            System.out.print(p[i] + " ");
-//        }
-
         for(int i=0; i<n; i++) {
             boolean isAllotted = false;
             for(int j=d[i]-1; j>=0; j--) {
