@@ -11,43 +11,46 @@ public class Queue {
 
     public Queue(int capacity) {
         this.capacity = capacity;
-        front = 0;
+        front = -1;
     }
 
     public void enqueue(int item) {
         if(isFull())
             return;
-        queue.add(queue.size(), item);
+        queue.add(0, item);
+        front++;
     }
 
     public void dequeue() {
         if(isEmpty())
             return;
-        if(queue.size()>front){
-            Integer val = queue.remove(front);
-            if(val==0){
-                front++;
-            }
+        if(queue.size()>=front){
+            queue.remove(front);
+            front--;
         }
     }
 
-    int getFront() {
+    public int getFront() {
         return front;
     }
 
-    int getRear() {
+    public int getRear() {
         return queue.size()-1;
     }
 
-    int getFrontNode() { return queue.get(front); }
+    public int getFrontNode() { return queue.get(front); }
 
-    int getRearNode() { return queue.get(queue.size()-1); }
+    public int getRearNode() { return queue.get(queue.size()-1); }
 
     private boolean isFull() {
         return (queue.size() == capacity);
     }
 
-    private boolean isEmpty() { return (queue.size() == 0); }
+    public boolean isEmpty() { return (queue.size() == 0); }
 
     public Object[] getArrayValues() { return queue.toArray(); }
+
+    public int getQueueSize() {
+        return queue.size();
+    }
 }
