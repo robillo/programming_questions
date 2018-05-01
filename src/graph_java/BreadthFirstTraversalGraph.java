@@ -61,7 +61,7 @@ public class BreadthFirstTraversalGraph {
             //dequeue last node and store it to enqueue its children
             int nodeBeingDequeued = q.getRearNode();
             q.dequeue();
-//            System.out.println(nodeBeingDequeued + " " + Arrays.toString(q.getArrayValues()) + " " + q.getQueueSize() + " " + q.getFront());
+//            System.out.println(nodeBeingDequeued + " " + Arrays.toString(q.getArrayValues()) + " " + q.getQueueSize() + " " + q.getTop());
 
             //enqueue all the children of nodeBeingDequeued that are not visited in their adjacency list
             for(int i=0; i<g.adjacencyListArray[nodeBeingDequeued].size(); i++) {
