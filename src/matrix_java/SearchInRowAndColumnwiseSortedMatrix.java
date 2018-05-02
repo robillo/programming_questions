@@ -47,7 +47,6 @@ public class SearchInRowAndColumnwiseSortedMatrix {
         int p = 0, q = n-1;
 
         do {
-            System.out.println(m[p][q]);
             if(m[p][q] == x) {
                 found = true;
                 break;
