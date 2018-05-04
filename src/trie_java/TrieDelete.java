@@ -25,18 +25,22 @@ public class TrieDelete {
         if(search("these")) System.out.println("these --- " + output[1]);
         else System.out.println("these --- " + output[0]);
 
-        if(search("their")) System.out.println("their --- " + output[1]);
-        else System.out.println("their --- " + output[0]);
-
         if(search("thaw")) System.out.println("thaw --- " + output[1]);
         else System.out.println("thaw --- " + output[0]);
 
         if(search("thei")) System.out.println("their --- " + output[1]);
         else System.out.println("thei --- " + output[0]);
 
-        String deleteKey = "their";
 
         //TESTING DELETE IN A TRIE
+
+        String deleteKey = "their";
+        System.out.println();
+
+        if(search("their")) System.out.println("their --- " + output[1]);
+        else System.out.println("their --- " + output[0]);
+
+        System.out.println("Node to be deleted: " + deleteKey);
 
         deleteHelper(root, deleteKey, 0, deleteKey.length());
 
@@ -96,7 +100,7 @@ public class TrieDelete {
         if(pNode != null) {
             //base case
             if(level == len) {
-                if(pNode.isEndOfWord)   //unmark end of word flag
+                if(pNode.isEndOfWord)   //un-mark end of word flag
                     pNode.isEndOfWord = false;
 
                 return isItFreeNode(pNode);
