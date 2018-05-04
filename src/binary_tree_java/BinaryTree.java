@@ -54,4 +54,8 @@ public class BinaryTree {
 
         return tree;
     }
+
+    public Node getRoot() {
+        return root;
+    }
 }
