@@ -30,6 +30,9 @@ public class TrieInsertAndSearch {
 
         if(search("thaw")) System.out.println("thaw --- " + output[1]);
         else System.out.println("thaw --- " + output[0]);
+
+        if(search("thei")) System.out.println("their --- " + output[1]);
+        else System.out.println("thei --- " + output[0]);
     }
 
     static final int ALPHABET_SIZE = 26;
