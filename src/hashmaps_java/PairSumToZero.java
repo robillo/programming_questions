@@ -38,9 +38,7 @@ public class PairSumToZero {
         for (Object val : keySet.toArray()) {
             if (map.get(val) != null) {
                 int p = valueCount.get(val) / 2;
-                if (p == 0) p = 1;
-                if(p == 1) p = 2;
-                for (int i = 0; i < p; i++) {
+                for (int i = 0; i <= p; i++) {
                     if ((Integer) val < map.get(val))
                         System.out.println(val + " " + map.get(val));
                     else

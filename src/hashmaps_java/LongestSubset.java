@@ -15,14 +15,20 @@ public class LongestSubset {
     }
 
     public static int max(int[] arr){
-        int ones = 0;
-        int zeroes = 0;
         int n = arr.length;
-        for(int a : arr) {
-            if(a == 0) zeroes++;
-            else  ones++;
+        int[] longest = new int[n];
+        for(int i=0; i<n; i++) {
+            int zeroes = 0, ones = 0;
+            for(int j=i; j<n; j++) {
+                if(arr[j] == 0) zeroes++;
+                else ones++;
+                if(zeroes == ones && 2*zeroes > longest[i]) longest[i] = 2*zeroes;
+            }
         }
-        if(zeroes > ones) return 2*ones;
-        else return 2*zeroes;
+        int maxLength = 0;
+        for(int i=0; i<n; i++) {
+            if(maxLength < longest[i]) maxLength = longest[i];
+        }
+        return maxLength;
     }
 }

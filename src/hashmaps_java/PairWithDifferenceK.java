@@ -37,12 +37,15 @@ public class PairWithDifferenceK {
                 }
             }
         }
-        Set<Integer> keySet = map.keySet();
-        for(Object val : keySet.toArray()) {
+        Object[] linear = map.keySet().toArray();
+        Object[] reverse = new Object[map.size()];
+        for(int i=0; i<linear.length; i++) {
+            reverse[i] = linear[linear.length-i-1];
+        }
+        for(Object val : reverse) {
             if(map.get(val) != null) {
-                int p = valueCount.get(val)/2;
-                if(p == 0) p = 1;
-                for(int i=0; i<p; i++) {
+                int p = valueCount.get(val);
+                for(int i=0; i<(p+1)/2; i++) {
                     if((Integer) val < map.get(val))
                         System.out.println(val + " " + map.get(val));
                     else
