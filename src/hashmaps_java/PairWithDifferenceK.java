@@ -43,15 +43,15 @@ public class PairWithDifferenceK {
             reverse[i] = linear[linear.length-i-1];
         }
         for(Object val : reverse) {
-            if(map.get(val) != null) {
-                int p = valueCount.get(val);
+            if(map.get((int)val) != null) {
+                int p = valueCount.get((int)val);
                 for(int i=0; i<(p+1)/2; i++) {
                     if((Integer) val < map.get(val))
                         System.out.println(val + " " + map.get(val));
                     else
                         System.out.println(map.get(val) + " " + val);
                 }
-                map.remove(map.get(val), val);
+                map.remove(map.get((int)val), val);
             }
         }
     }

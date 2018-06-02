@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashmaps_java/LongestConsecutiveSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashmaps_java/ZeroSumSubArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hashmaps_java/LongestSubset.java" afterPath="$PROJECT_DIR$/src/hashmaps_java/LongestSubset.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hashmaps_java/PairSumToZero.java" afterPath="$PROJECT_DIR$/src/hashmaps_java/PairSumToZero.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hashmaps_java/PairWithDifferenceK.java" afterPath="$PROJECT_DIR$/src/hashmaps_java/PairWithDifferenceK.java" />
     </list>
@@ -20,33 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PairSumToZero.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hashmaps_java/PairSumToZero.java">
+      <file leaf-file-name="LongestConsecutiveSubsequence.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hashmaps_java/LongestConsecutiveSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestSubset.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hashmaps_java/LongestSubset.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="31" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PairWithDifferenceK.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hashmaps_java/PairWithDifferenceK.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="39" column="49" lean-forward="true" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+            <state relative-caret-position="600">
+              <caret line="40" column="47" lean-forward="true" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,9 +106,11 @@
         <option value="$PROJECT_DIR$/src/hashmaps_java/MaximumFrequencyNumber.java" />
         <option value="$PROJECT_DIR$/src/hashmaps_java/NearestRepetition.java" />
         <option value="$PROJECT_DIR$/src/hashmaps_java/PrintArrayIntersection.java" />
-        <option value="$PROJECT_DIR$/src/hashmaps_java/PairSumToZero.java" />
         <option value="$PROJECT_DIR$/src/hashmaps_java/LongestSubset.java" />
         <option value="$PROJECT_DIR$/src/hashmaps_java/PairWithDifferenceK.java" />
+        <option value="$PROJECT_DIR$/src/hashmaps_java/PairSumToZero.java" />
+        <option value="$PROJECT_DIR$/src/hashmaps_java/ZeroSumSubArray.java" />
+        <option value="$PROJECT_DIR$/src/hashmaps_java/LongestConsecutiveSubsequence.java" />
       </list>
     </option>
   </component>
@@ -212,15 +193,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PairWithDifferenceK">
-    <configuration name="LongestSubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.LongestConsecutiveSubsequence">
+    <configuration name="LongestConsecutiveSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="hashmaps_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hashmaps_java.LongestSubset" />
+      <option name="MAIN_CLASS_NAME" value="hashmaps_java.LongestConsecutiveSubsequence" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -232,14 +213,14 @@
       <module name="programming_questions" />
       <envs />
     </configuration>
-    <configuration name="NearestRepetition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestSubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="hashmaps_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hashmaps_java.NearestRepetition" />
+      <option name="MAIN_CLASS_NAME" value="hashmaps_java.LongestSubset" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -289,14 +270,14 @@
       <module name="programming_questions" />
       <envs />
     </configuration>
-    <configuration name="PrintArrayIntersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ZeroSumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="hashmaps_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hashmaps_java.PrintArrayIntersection" />
+      <option name="MAIN_CLASS_NAME" value="hashmaps_java.ZeroSumSubArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -392,17 +373,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.PairWithDifferenceK" />
       <item index="1" class="java.lang.String" itemvalue="Application.LongestSubset" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NearestRepetition" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PairSumToZero" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PrintArrayIntersection" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PairSumToZero" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ZeroSumSubArray" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LongestConsecutiveSubsequence" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PairWithDifferenceK" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LongestSubset" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PairSumToZero" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PrintArrayIntersection" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NearestRepetition" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LongestConsecutiveSubsequence" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ZeroSumSubArray" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PairWithDifferenceK" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LongestSubset" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PairSumToZero" />
       </list>
     </recent_temporary>
   </component>
@@ -641,7 +622,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527973751517</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="PairWithDifferenceK, PairSumToZero">
+      <created>1527977207545</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1527977207545</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -655,6 +643,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -664,12 +653,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27932286" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27932286" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49722221" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26323318" sideWeight="0.49369368" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26323318" sideWeight="0.49369368" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -688,7 +677,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="full nodes" />
     <MESSAGE value="replace node with depth in a binary tree" />
     <MESSAGE value="print nodes at kth level from root, sum of nodes at kth level from root" />
     <MESSAGE value="Level order traversal line by line" />
@@ -713,27 +701,14 @@
     <MESSAGE value="patterns" />
     <MESSAGE value="arrays and strings" />
     <MESSAGE value="LongestSubset, MaximumFrequency, NearestRepetition, PrintArrayIntersection" />
-    <option name="LAST_COMMIT_MESSAGE" value="LongestSubset, MaximumFrequency, NearestRepetition, PrintArrayIntersection" />
+    <MESSAGE value="PairWithDifferenceK, PairSumToZero" />
+    <option name="LAST_COMMIT_MESSAGE" value="PairWithDifferenceK, PairSumToZero" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/stack_java/ArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/queue_java/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/binary_tree_java/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
@@ -1063,10 +1038,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/hashmaps_java/PairWithDifferenceK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="48" column="36" lean-forward="true" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/hashmaps_java/PairSumToZero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        <state relative-caret-position="634">
+          <caret line="46" column="40" lean-forward="false" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1075,16 +1060,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hashmaps_java/LongestSubset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="31" selection-end-column="25" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hashmaps_java/PairWithDifferenceK.java">
+    <entry file="file://$PROJECT_DIR$/src/hashmaps_java/ZeroSumSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="39" column="49" lean-forward="true" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+        <state relative-caret-position="225">
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hashmaps_java/LongestConsecutiveSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="47" lean-forward="true" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

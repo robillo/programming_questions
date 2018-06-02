@@ -36,15 +36,15 @@ public class PairSumToZero {
         }
         Set<Integer> keySet = map.keySet();
         for (Object val : keySet.toArray()) {
-            if (map.get(val) != null) {
-                int p = valueCount.get(val) / 2;
+            if (map.get((int)val) != null) {
+                int p = valueCount.get((int)val) / 2;
                 for (int i = 0; i <= p; i++) {
                     if ((Integer) val < map.get(val))
                         System.out.println(val + " " + map.get(val));
                     else
                         System.out.println(map.get(val) + " " + val);
                 }
-                map.remove(map.get(val), val);
+                map.remove(map.get((int)val), val);
             }
         }
     }
