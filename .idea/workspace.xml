@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/recursion_java/PrintSubSequencesOfAString.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/recursion_java/ReturnKeypadStrings.java" afterPath="$PROJECT_DIR$/src/recursion_java/ReturnKeypadStrings.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,14 +18,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReturnKeypadStrings.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/recursion_java/ReturnKeypadStrings.java">
+      <file leaf-file-name="PrintSubSequencesOfAString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/recursion_java/PrintSubSequencesOfAString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/binary_tree_java/Queue.java" />
         <option value="$PROJECT_DIR$/src/stack_java/Stack.java" />
         <option value="$PROJECT_DIR$/src/stack_java/StackTest.java" />
         <option value="$PROJECT_DIR$/src/matrix_java/SearchInRowAndColumnwiseSortedMatrix.java" />
@@ -110,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/test/EqualSumPair.java" />
         <option value="$PROJECT_DIR$/src/test/FindSmallestSubstring.java" />
         <option value="$PROJECT_DIR$/src/recursion_java/ReturnKeypadStrings.java" />
+        <option value="$PROJECT_DIR$/src/recursion_java/PrintSubSequencesOfAString.java" />
       </list>
     </option>
   </component>
@@ -192,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReturnKeypadStrings">
+  <component name="RunManager" selected="Application.PrintSubSequencesOfAString">
     <configuration name="EqualSumPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -250,14 +248,14 @@
       <module name="programming_questions" />
       <envs />
     </configuration>
-    <configuration name="MinimumCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintSubSequencesOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="recursion_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="recursion_java.MinimumCount" />
+      <option name="MAIN_CLASS_NAME" value="recursion_java.PrintSubSequencesOfAString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -370,19 +368,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MinimumCount" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MaximumProfit" />
-      <item index="2" class="java.lang.String" itemvalue="Application.EqualSumPair" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FindSmallestSubstring" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ReturnKeypadStrings" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MaximumProfit" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EqualSumPair" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FindSmallestSubstring" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ReturnKeypadStrings" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PrintSubSequencesOfAString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ReturnKeypadStrings" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FindSmallestSubstring" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EqualSumPair" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MaximumProfit" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MinimumCount" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PrintSubSequencesOfAString" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReturnKeypadStrings" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FindSmallestSubstring" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EqualSumPair" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MaximumProfit" />
       </list>
     </recent_temporary>
   </component>
@@ -684,7 +682,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529012208911</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="return keypad strings problem done. awesome feeling.">
+      <created>1529040560806</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1529040560806</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -698,7 +703,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -708,7 +712,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27932286" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27932286" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49722221" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -732,7 +736,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="greedy : activity selection problem" />
     <MESSAGE value="greedy : job sequencing / scheduling problem" />
     <MESSAGE value="greedy : maximum equal sums in three stacks" />
     <MESSAGE value="stack : max possible equal sums in three stacks" />
@@ -757,7 +760,8 @@
     <MESSAGE value="other recursion problems" />
     <MESSAGE value="important: interleavings and minimum count" />
     <MESSAGE value="test one" />
-    <option name="LAST_COMMIT_MESSAGE" value="test one" />
+    <MESSAGE value="return keypad strings problem done. awesome feeling." />
+    <option name="LAST_COMMIT_MESSAGE" value="return keypad strings problem done. awesome feeling." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -766,13 +770,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/arrays_and_strings/ReverseEachWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/arrays_and_strings/Sort012.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1150,7 +1147,7 @@
         <state relative-caret-position="342">
           <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1160,7 +1157,7 @@
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1170,18 +1167,26 @@
         <state relative-caret-position="420">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recursion_java/ReturnKeypadStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="182">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion_java/PrintSubSequencesOfAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
