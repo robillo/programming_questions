@@ -1,10 +1,9 @@
 package recursion_java;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class ReturnKeypadStrings {
+public class KeypadStringsTwo {
 
     static HashMap<Integer, String> map = new HashMap<>();
 
@@ -23,15 +22,25 @@ public class ReturnKeypadStrings {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
 
-        System.out.println(Arrays.toString(keypad(n)));
+        printKeypad(n);
     }
 
-    public static String[] keypad(int n){
+    public static void printKeypad(int n){
+        int size = 0;
+        int temp = n;
+        while (temp != 0) {
+            size++;
+            temp/=10;
+        }
+        keypad(n, size);
+    }
+
+    public static String[] keypad(int n, int req_size){
         if(n == 0) return null;
         int currentNum = n%10;
         n = n/10;
         String mappedString = map.get(currentNum);
-        String[] recur = keypad(n);
+        String[] recur = keypad(n, req_size);
         int size;
         if(recur == null) {
             size = mappedString.length();
@@ -54,6 +63,9 @@ public class ReturnKeypadStrings {
                     count++;
                 }
             }
+        }
+        for(int i=0; i<updatedStrings.length; i++) {
+            if(updatedStrings[i].length() == req_size) System.out.println(updatedStrings[i]);
         }
         return updatedStrings;
     }
