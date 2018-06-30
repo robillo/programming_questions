@@ -11,10 +11,6 @@ public class CheckPowerOf2 {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
 
-        int testNum = 1; // 00000001
-
-        testNum = testNum & n;  //at 0th position, & operation will always make result bit 0
-
         /*normally we write code:
         while(n%2 == 0) {
             n = n/2;
@@ -27,6 +23,14 @@ public class CheckPowerOf2 {
         }
 
         if(n == 1) {
+            System.out.println("power of two");
+        }
+        else {
+            System.out.println("not power of two");
+        }
+
+        //second method based on fact that and of n and n-1 is always zero for numbers of power 2
+        if((n & n-1) == 0) {
             System.out.println("power of two");
         }
         else {
