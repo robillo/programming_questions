@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bit_manipulation_java/UnsetIthBit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bit_manipulation_java/FlipASpecificBit.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,11 +28,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UnsetIthBit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UnsetIthBit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bit_manipulation_java/UnsetIthBit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="20" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlipASpecificBit.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bit_manipulation_java/FlipASpecificBit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -67,7 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/binary_tree_java/InOrderTreeTraversalWithoutRecursion.java" />
         <option value="$PROJECT_DIR$/src/patterns/PatternFour.java" />
         <option value="$PROJECT_DIR$/src/arrays_and_strings/LeaderInArray.java" />
         <option value="$PROJECT_DIR$/src/hashmaps_java/MaximumFrequencyNumber.java" />
@@ -118,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/test_2/PrintIncreasingNumbers.java" />
         <option value="$PROJECT_DIR$/src/bit_manipulation_java/SetIthBit.java" />
         <option value="$PROJECT_DIR$/src/bit_manipulation_java/UnsetIthBit.java" />
+        <option value="$PROJECT_DIR$/src/bit_manipulation_java/FlipASpecificBit.java" />
       </list>
     </option>
   </component>
@@ -727,7 +737,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530378138688</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="unset ith bit">
+      <created>1530378551007</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1530378551007</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -775,7 +792,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Queue: queue correction; Graph: graph breadth first traversal;" />
     <MESSAGE value="stack: linked list implemented as a stack and its test class" />
     <MESSAGE value="matrix: search in columwise and rowwise sorted matrix" />
     <MESSAGE value="trie: insert and search" />
@@ -800,7 +816,8 @@
     <MESSAGE value="keypad strings two" />
     <MESSAGE value="recursion set 2 complete" />
     <MESSAGE value="bit manipulations : set ith bit" />
-    <option name="LAST_COMMIT_MESSAGE" value="bit manipulations : set ith bit" />
+    <MESSAGE value="unset ith bit" />
+    <option name="LAST_COMMIT_MESSAGE" value="unset ith bit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -809,13 +826,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1181" column="22" lean-forward="false" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
@@ -1169,7 +1179,15 @@
     <entry file="file://$PROJECT_DIR$/src/bit_manipulation_java/UnsetIthBit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bit_manipulation_java/FlipASpecificBit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding />
         </state>
       </provider>
