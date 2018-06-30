@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bit_manipulation_java/CheckEvenOrOdd.java" />
+    <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="c">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bit_manipulation_java/CheckPowerOf2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,11 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckEvenOrOdd.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CheckEvenOrOdd.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bit_manipulation_java/CheckEvenOrOdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="23" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckPowerOf2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bit_manipulation_java/CheckPowerOf2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -87,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/arrays_and_strings/LeaderInArray.java" />
         <option value="$PROJECT_DIR$/src/hashmaps_java/MaximumFrequencyNumber.java" />
         <option value="$PROJECT_DIR$/src/hashmaps_java/NearestRepetition.java" />
         <option value="$PROJECT_DIR$/src/hashmaps_java/PrintArrayIntersection.java" />
@@ -138,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/bit_manipulation_java/UnsetIthBit.java" />
         <option value="$PROJECT_DIR$/src/bit_manipulation_java/FlipASpecificBit.java" />
         <option value="$PROJECT_DIR$/src/bit_manipulation_java/CheckEvenOrOdd.java" />
+        <option value="$PROJECT_DIR$/src/bit_manipulation_java/CheckPowerOf2.java" />
       </list>
     </option>
   </component>
@@ -220,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckEvenOrOdd">
+  <component name="RunManager" selected="Application.CheckPowerOf2">
     <configuration name="CheckEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -240,14 +250,14 @@
       <module name="programming_questions" />
       <envs />
     </configuration>
-    <configuration name="PrintIncreasingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckPowerOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test_2.*" />
+          <option name="PATTERN" value="bit_manipulation_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test_2.PrintIncreasingNumbers" />
+      <option name="MAIN_CLASS_NAME" value="bit_manipulation_java.CheckPowerOf2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -259,14 +269,14 @@
       <module name="programming_questions" />
       <envs />
     </configuration>
-    <configuration name="PrintParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintIncreasingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="test_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test_2.PrintParenthesis" />
+      <option name="MAIN_CLASS_NAME" value="test_2.PrintIncreasingNumbers" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -398,19 +408,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PrintParenthesis" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PrintIncreasingNumbers" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SetIthBit" />
-      <item index="3" class="java.lang.String" itemvalue="Application.UnsetIthBit" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CheckEvenOrOdd" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PrintIncreasingNumbers" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SetIthBit" />
+      <item index="2" class="java.lang.String" itemvalue="Application.UnsetIthBit" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CheckEvenOrOdd" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CheckPowerOf2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CheckEvenOrOdd" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UnsetIthBit" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SetIthBit" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PrintIncreasingNumbers" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PrintParenthesis" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CheckPowerOf2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CheckEvenOrOdd" />
+        <item index="2" class="java.lang.String" itemvalue="Application.UnsetIthBit" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SetIthBit" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PrintIncreasingNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -761,7 +771,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530378799744</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="bit manipulation : odd or even number">
+      <created>1530379436326</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1530379436326</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -808,7 +825,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="matrix: search in columwise and rowwise sorted matrix" />
     <MESSAGE value="trie: insert and search" />
     <MESSAGE value="Trie / Matrix: Print Unique Rows Of A Boolean Matrix" />
     <MESSAGE value="TRIE : DELETE" />
@@ -833,7 +849,8 @@
     <MESSAGE value="bit manipulations : set ith bit" />
     <MESSAGE value="unset ith bit" />
     <MESSAGE value="flip ith bit" />
-    <option name="LAST_COMMIT_MESSAGE" value="flip ith bit" />
+    <MESSAGE value="bit manipulation : odd or even number" />
+    <option name="LAST_COMMIT_MESSAGE" value="bit manipulation : odd or even number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -842,13 +859,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/hashmaps_java/PrintArrayIntersection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hashmaps_java/NearestRepetition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1203,8 +1213,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bit_manipulation_java/CheckEvenOrOdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bit_manipulation_java/CheckPowerOf2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
           <folding />
         </state>
       </provider>
