@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class NumberOfOnes {
 
-        /*You are given an integer N.
+    /*You are given an integer N.
     You need to count number of 1's in its binary representation*/
 
     public static void main(String[] args) {
