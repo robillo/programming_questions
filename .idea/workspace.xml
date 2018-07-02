@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtracking_java/RatInAMaze.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtracking_java/Sudoku.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/BreakWords.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/BreakWords.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/CheckPermutation.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/CheckPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/CompressTheString.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/CompressTheString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/CountPlatforms.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/CountPlatforms.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/DuplicateInArray.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/DuplicateInArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/LargestUniqueSubstring.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/LargestUniqueSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/LeaderInArray.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/LeaderInArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/MaximiseSumPath.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/MaximiseSumPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/MergeTwoSortedArrays.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/MergeTwoSortedArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/PallindromeSubstrings.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/PallindromeSubstrings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/PrintLikeAWave.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/PrintLikeAWave.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/PrintSpiral.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/PrintSpiral.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/PushZeroesToEnd.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/PushZeroesToEnd.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/ReverseEachWord.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/ReverseEachWord.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/ReverseStringWordWise.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/ReverseStringWordWise.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/RotateMatrix.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/RotateMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings/Sort012.java" afterPath="$PROJECT_DIR$/src/arrays_and_strings_java/Sort012.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backtracking_java/RatInAMaze.java" afterPath="$PROJECT_DIR$/src/backtracking_java/RatInAMaze.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backtracking_java/Sudoku.java" afterPath="$PROJECT_DIR$/src/backtracking_java/Sudoku.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,24 +19,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RatInAMaze.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RatInAMaze.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backtracking_java/RatInAMaze.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" column="30" lean-forward="true" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
-              <folding>
-                <element signature="e#55#96#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sudoku.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Sudoku.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/backtracking_java/Sudoku.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="673">
+              <caret line="65" column="12" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+              <folding>
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#771#772#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/recursion_java.java" />
         <option value="$PROJECT_DIR$/src/recursion_java/SumOfArray.java" />
         <option value="$PROJECT_DIR$/src/recursion_java/XToPowerN.java" />
         <option value="$PROJECT_DIR$/src/recursion_java/PrintNumbers.java" />
@@ -138,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/bit_manipulation_java/ClearAllBitsFromMsb.java" />
         <option value="$PROJECT_DIR$/src/bit_manipulation_java/ClearAllBitsFromLsb.java" />
         <option value="$PROJECT_DIR$/src/backtracking_java/RatInAMaze.java" />
+        <option value="$PROJECT_DIR$/src/backtracking_java/Sudoku.java" />
       </list>
     </option>
   </component>
@@ -220,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RatInAMaze">
+  <component name="RunManager" selected="Application.Sudoku">
     <configuration name="ClearAllBitsFromLsb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -259,14 +243,14 @@
       <module name="programming_questions" />
       <envs />
     </configuration>
-    <configuration name="FindFirstSetBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RatInAMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="bit_manipulation_java.*" />
+          <option name="PATTERN" value="backtracking_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="bit_manipulation_java.FindFirstSetBit" />
+      <option name="MAIN_CLASS_NAME" value="backtracking_java.RatInAMaze" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -278,14 +262,14 @@
       <module name="programming_questions" />
       <envs />
     </configuration>
-    <configuration name="RatInAMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="backtracking_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="backtracking_java.RatInAMaze" />
+      <option name="MAIN_CLASS_NAME" value="backtracking_java.Sudoku" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -398,19 +382,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FindFirstSetBit" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TurnOffFirstSetBit" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ClearAllBitsFromLsb" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ClearAllBitsFromMsb" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RatInAMaze" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TurnOffFirstSetBit" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ClearAllBitsFromLsb" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ClearAllBitsFromMsb" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RatInAMaze" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Sudoku" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RatInAMaze" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ClearAllBitsFromMsb" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ClearAllBitsFromLsb" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TurnOffFirstSetBit" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FindFirstSetBit" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Sudoku" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RatInAMaze" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ClearAllBitsFromMsb" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ClearAllBitsFromLsb" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TurnOffFirstSetBit" />
       </list>
     </recent_temporary>
   </component>
@@ -424,13 +408,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520305887625</updated>
-    </task>
-    <task id="LOCAL-00006" summary="size of binary tree">
-      <created>1520431571041</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1520431571042</updated>
     </task>
     <task id="LOCAL-00007" summary="full nodes">
       <created>1520432675765</created>
@@ -768,7 +745,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530437293573</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="backtracking : rat in a maze">
+      <created>1530550058048</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1530550058052</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -792,7 +776,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27932286" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27085853" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49722221" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -816,7 +800,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="patterns" />
     <MESSAGE value="arrays and strings" />
     <MESSAGE value="LongestSubset, MaximumFrequency, NearestRepetition, PrintArrayIntersection" />
     <MESSAGE value="PairWithDifferenceK, PairSumToZero" />
@@ -841,7 +824,8 @@
     <MESSAGE value="find number of ones in binary representation of a number" />
     <MESSAGE value="find first set bit, find only set bit, number of ones" />
     <MESSAGE value="clear all bits from lsb, msb and turn off first set bit" />
-    <option name="LAST_COMMIT_MESSAGE" value="clear all bits from lsb, msb and turn off first set bit" />
+    <MESSAGE value="backtracking : rat in a maze" />
+    <option name="LAST_COMMIT_MESSAGE" value="backtracking : rat in a maze" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1206,20 +1190,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backtracking_java/Sudoku.java">
+    <entry file="file://$PROJECT_DIR$/src/backtracking_java/RatInAMaze.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="190">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backtracking_java/RatInAMaze.java">
+    <entry file="file://$PROJECT_DIR$/src/backtracking_java/Sudoku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="30" lean-forward="true" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+        <state relative-caret-position="673">
+          <caret line="65" column="12" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
           <folding>
-            <element signature="e#55#96#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
           </folding>
         </state>
       </provider>

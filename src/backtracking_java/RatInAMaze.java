@@ -2,7 +2,6 @@ package backtracking_java;
 
 import java.util.Scanner;
 
-@SuppressWarnings("RedundantIfStatement")
 public class RatInAMaze {
 
     public static void main(String[] args) {
