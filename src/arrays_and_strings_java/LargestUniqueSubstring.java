@@ -1,4 +1,4 @@
-package arrays_and_strings;
+package arrays_and_strings_java;
 
 import java.util.HashMap;
 import java.util.Scanner;
