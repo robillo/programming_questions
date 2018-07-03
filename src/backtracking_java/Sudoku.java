@@ -29,9 +29,11 @@ public class Sudoku {
 
     private static boolean canBeCompletedHelper(int[][] a, int x, int y) {
 
-        if(x == SIZE-1 && y == SIZE-1 && a[x][y] != 0) return true;
+        if(x == SIZE-1 && y == SIZE-1 && a[x][y] != 0)
+            return true;
 
-        if(x < 0 || y < 0 || x >= SIZE || y >= SIZE) return false;
+        if(x < 0 || y < 0 || x >= SIZE || y >= SIZE)
+            return false;
 
         if(a[x][y] == 0) {
             for(int i=0; i<SIZE; i++) {
@@ -60,10 +62,10 @@ public class Sudoku {
         }
         else {
 
-            if(x == SIZE-1 && y == SIZE-1) return true;
+            if(x == SIZE-1 && y == SIZE-1)
+                return true;
 
             if(x == SIZE-1) return canBeCompletedHelper(a, 0, y+1);
-
             else return canBeCompletedHelper(a, x+1, y);
         }
 
