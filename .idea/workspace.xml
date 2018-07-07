@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dynamic_programming_java/AlphaCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dynamic_programming_java/LongestIncreasingSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dynamic_programming_java/MaximumSumSubArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/binary_tree_java/PreorderTreeTraversal.java" afterPath="$PROJECT_DIR$/src/binary_tree_java/PreorderTreeTraversal.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +17,12 @@
     <favorites_list name="programming_questions" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LongestIncreasingSubsequence.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dynamic_programming_java/LongestIncreasingSubsequence.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MaximumSumSubArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dynamic_programming_java/MaximumSumSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="120">
+              <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
               <folding>
                 <element signature="e#62#95#0" expanded="true" />
               </folding>
@@ -62,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/recursion_java/FirstIndex.java" />
         <option value="$PROJECT_DIR$/src/recursion_java/AllIndices.java" />
         <option value="$PROJECT_DIR$/src/recursion_java/CountZeroes.java" />
         <option value="$PROJECT_DIR$/src/recursion_java/GeometricSum.java" />
@@ -113,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/binary_tree_java/PreorderTreeTraversal.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming_java/AlphaCode.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming_java/LongestIncreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_programming_java/MaximumSumSubArray.java" />
       </list>
     </option>
   </component>
@@ -142,9 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -168,6 +163,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestIncreasingSubsequence">
+  <component name="RunManager" selected="Application.MaximumSumSubArray">
     <configuration name="AlphaCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -235,14 +233,14 @@
       <module name="programming_questions" />
       <envs />
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="dynamic_programming_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="dynamic_programming_java.Fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="dynamic_programming_java.LongestIncreasingSubsequence" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -254,14 +252,14 @@
       <module name="programming_questions" />
       <envs />
     </configuration>
-    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximumSumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="dynamic_programming_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="dynamic_programming_java.LongestIncreasingSubsequence" />
+      <option name="MAIN_CLASS_NAME" value="dynamic_programming_java.MaximumSumSubArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -374,19 +372,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Fibonacci" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CountStepsTo1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.AlphaCode" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PreorderTreeTraversal" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CountStepsTo1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AlphaCode" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PreorderTreeTraversal" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MaximumSumSubArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AlphaCode" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PreorderTreeTraversal" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CountStepsTo1" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Fibonacci" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MaximumSumSubArray" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AlphaCode" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PreorderTreeTraversal" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CountStepsTo1" />
       </list>
     </recent_temporary>
   </component>
@@ -400,13 +398,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520305887625</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Level order traversal line by line">
-      <created>1520609607584</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1520609607584</updated>
     </task>
     <task id="LOCAL-00011" summary="Delete leaf value with value X">
       <created>1520610374640</created>
@@ -744,7 +735,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530819853803</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="longest increasing subsequence dp">
+      <created>1530903872699</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1530903872700</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -792,7 +790,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LongestConsecutiveSubsequence" />
     <MESSAGE value="print elements in vertical order binary tree java" />
     <MESSAGE value="recursion four questions" />
     <MESSAGE value="more recursion questions" />
@@ -817,7 +814,8 @@
     <MESSAGE value="phew! Sudoku problem done in 2-3 attempts! Feeling like a God!" />
     <MESSAGE value="fibonacci : normal, recursive dp, iterative dp, iterative and space optimised dp" />
     <MESSAGE value="count steps to 1 dp (tabulation method : else stack overflow error due to recursion)" />
-    <option name="LAST_COMMIT_MESSAGE" value="count steps to 1 dp (tabulation method : else stack overflow error due to recursion)" />
+    <MESSAGE value="longest increasing subsequence dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="longest increasing subsequence dp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -826,13 +824,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/recursion_java/XToPowerN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/recursion_java/MultiplyTwoIntegers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1179,8 +1170,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming_java/LongestIncreasingSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="330">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_programming_java/MaximumSumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
           <folding>
             <element signature="e#62#95#0" expanded="true" />
           </folding>
