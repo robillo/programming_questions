@@ -4,13 +4,12 @@ import java.security.PublicKey;
 import java.util.Scanner;
 
 public class main_tree_func {
-        static void main(String[] agrs){
-        Scanner s = new Scanner(System.in);
-        int data = s.nextInt();
-        binary_node node= new binary_node(data);
-        prepare_tree prep = new prepare(node);
+        public static void main(String[] agrs){
+
+        prepare_tree prep = new prepare_tree();
+        binary_node<Integer> head=prep.prepare();
         print_tree printT = new print_tree();
-        printT.print(prep);
+        printT.print(head);
 
 
     }

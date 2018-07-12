@@ -1,7 +1,7 @@
 package Sam.Trees;
 
-public class print_tree {
-   static void print(prepare_tree node){
+ public class print_tree {
+   static void print(binary_node<Integer> node){
         if(node==null){
             return;
         }

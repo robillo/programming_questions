@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sam/Trees/binary_node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sam/Trees/main_tree_func.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sam/Trees/prepare_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sam/Trees/print_tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sam/Trees/binary_node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sam/Trees/binary_node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sam/Trees/main_tree_func.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sam/Trees/main_tree_func.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sam/Trees/prepare_tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sam/Trees/prepare_tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sam/Trees/print_tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sam/Trees/print_tree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +24,11 @@
       <file leaf-file-name="binary_node.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sam/Trees/binary_node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="119">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding>
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -38,26 +37,26 @@
       <file leaf-file-name="prepare_tree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sam/Trees/prepare_tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="136">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="print_tree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="print_tree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sam/Trees/print_tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="85">
+              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main_tree_func.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main_tree_func.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sam/Trees/main_tree_func.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,9 +137,9 @@
         <option value="$PROJECT_DIR$/src/dynamic_programming_java/LootHouses.java" />
         <option value="$PROJECT_DIR$/src/Sam/BinaryTree_node.java" />
         <option value="$PROJECT_DIR$/src/Sam/Trees/binary_node.java" />
-        <option value="$PROJECT_DIR$/src/Sam/Trees/main_tree_func.java" />
         <option value="$PROJECT_DIR$/src/Sam/Trees/prepare_tree.java" />
         <option value="$PROJECT_DIR$/src/Sam/Trees/print_tree.java" />
+        <option value="$PROJECT_DIR$/src/Sam/Trees/main_tree_func.java" />
       </list>
     </option>
   </component>
@@ -151,10 +150,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="351" />
-    <option name="y" value="92" />
-    <option name="width" value="1433" />
-    <option name="height" value="937" />
+    <option name="x" value="-219" />
+    <option name="y" value="112" />
+    <option name="width" value="1434" />
+    <option name="height" value="938" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -164,9 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,6 +185,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,13 +343,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520305887625</updated>
-    </task>
-    <task id="LOCAL-00013" summary="max and min values in a tree">
-      <created>1520705294530</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1520705294530</updated>
     </task>
     <task id="LOCAL-00014" summary="level with max number of nodes in a tree">
       <created>1520706027435</created>
@@ -688,7 +680,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530999227553</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Loot Houses Awesomely Done (DP) :)">
+      <created>1531344877115</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1531344877116</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -701,22 +700,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="281" y="74" width="1146" height="749" extended-state="0" />
+    <frame x="-198" y="79" width="1147" height="750" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32889965" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49570817" visible="true" weight="0.32861635" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49570817" weight="0.32861635" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50429183" side_tool="true" weight="0.32889965" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.3297568" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" weight="0.27085853" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49722221" visible="true" weight="0.2700157" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49722221" weight="0.32889965" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32889965" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49369368" visible="true" weight="0.37102473" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49369368" visible="true" weight="0.37069726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -1068,19 +1068,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-          <folding>
-            <element signature="e#62#95#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sam/BinaryTree_node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sam/BinaryTree_node.java" />
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming_java/LootHouses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1090,36 +1081,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sam/Trees/binary_node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sam/Trees/prepare_tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sam/Trees/main_tree_func.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sam/Trees/print_tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sam/Trees/prepare_tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sam/Trees/main_tree_func.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
