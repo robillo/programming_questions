@@ -2,153 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/HackWithInfyTest/InTheFuture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/HackWithInfyTest/IsPossible.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/HackWithInfyTest/WeddingPlanner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/HackWithInfyTest/WholeMinuteDilemma.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/Boredom.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Sam/Trees/binary_node.java" afterPath="$PROJECT_DIR$/src/mauryasameer/trees_java/BinaryNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Sam/Trees/main_tree_func.java" afterPath="$PROJECT_DIR$/src/mauryasameer/trees_java/TreeMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Sam/Trees/prepare_tree.java" afterPath="$PROJECT_DIR$/src/mauryasameer/trees_java/PrepareTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Sam/Trees/print_tree.java" afterPath="$PROJECT_DIR$/src/mauryasameer/trees_java/PrintTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/BreakWords.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/BreakWords.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/CheckPermutation.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/CheckPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/CompressTheString.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/CompressTheString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/CountPlatforms.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/CountPlatforms.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/DuplicateInArray.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/DuplicateInArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/LargestUniqueSubstring.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/LargestUniqueSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/LeaderInArray.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/LeaderInArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/MaximiseSumPath.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/MaximiseSumPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/MergeTwoSortedArrays.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/MergeTwoSortedArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/PallindromeSubstrings.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/PallindromeSubstrings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/PrintLikeAWave.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/PrintLikeAWave.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/PrintSpiral.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/PrintSpiral.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/PushZeroesToEnd.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/PushZeroesToEnd.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/ReverseEachWord.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/ReverseEachWord.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/ReverseStringWordWise.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/ReverseStringWordWise.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/RotateMatrix.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/RotateMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/arrays_and_strings_java/Sort012.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/Sort012.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/backtracking_java/RatInAMaze.java" afterPath="$PROJECT_DIR$/src/robillo/backtracking_java/RatInAMaze.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/backtracking_java/Sudoku.java" afterPath="$PROJECT_DIR$/src/robillo/backtracking_java/Sudoku.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/BinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/BinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/CharCountAtSamePositionAsEnglishCharacters.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/CharCountAtSamePositionAsEnglishCharacters.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/CountWordsInString.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/CountWordsInString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/DeleteLeafValueWithValueX.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/DeleteLeafValueWithValueX.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/DividingStringInNEqualParts.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/DividingStringInNEqualParts.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/FullNodesInBinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/FullNodesInBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/HalfNodesBinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/HalfNodesBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/InOrderTreeTraversalWithoutRecursion.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/InOrderTreeTraversalWithoutRecursion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/InorderTreeTraversal.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/InorderTreeTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/KthCharOfDecryptedString.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/KthCharOfDecryptedString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/LeafNodesBinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/LeafNodesBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/LevelOrderTraversalLineByLineOfTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/LevelOrderTraversalLineByLineOfTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/LevelOrderTreeTraversal.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/LevelOrderTreeTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/LevelWithMaxNumberOfNodes.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/LevelWithMaxNumberOfNodes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/LongestSpanSameSumTwoBinaryArrays.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/LongestSpanSameSumTwoBinaryArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/MaxAndMinValueInATree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/MaxAndMinValueInATree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/Node.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/PostOrderTreeTraversal.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/PostOrderTreeTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/PreorderTreeTraversal.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/PreorderTreeTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/PrintNodesAtKthDistanceFromRoot.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/PrintNodesAtKthDistanceFromRoot.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/Queue.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/Queue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/ReplaceNodeWithDepthInBinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/ReplaceNodeWithDepthInBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/SecondMostFreqCharInString.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/SecondMostFreqCharInString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/SizeOfBinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/SizeOfBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/SumOfAllNodesOfTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/SumOfAllNodesOfTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/binary_tree_java/SumOfNodesAtKthLevelOfTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree_java/SumOfNodesAtKthLevelOfTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/CheckEvenOrOdd.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/CheckEvenOrOdd.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/CheckMultipleOfFour.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/CheckMultipleOfFour.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/CheckPowerOf2.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/CheckPowerOf2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/CheckPowerOf4.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/CheckPowerOf4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/ClearAllBitsFromLsb.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/ClearAllBitsFromLsb.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/ClearAllBitsFromMsb.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/ClearAllBitsFromMsb.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/FindFirstSetBit.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/FindFirstSetBit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/FindOnlySetBitPosition.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/FindOnlySetBitPosition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/FlipASpecificBit.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/FlipASpecificBit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/NumberOfOnes.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/NumberOfOnes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/SetIthBit.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/SetIthBit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/TurnOffFirstSetBit.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/TurnOffFirstSetBit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bit_manipulation_java/UnsetIthBit.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/UnsetIthBit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dynamic_programming_java/AlphaCode.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/AlphaCode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dynamic_programming_java/CountStepsTo1.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/CountStepsTo1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dynamic_programming_java/Fibonacci.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/Fibonacci.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dynamic_programming_java/LongestIncreasingSubsequence.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/LongestIncreasingSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dynamic_programming_java/LootHouses.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/LootHouses.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dynamic_programming_java/MaximumSumSubArray.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/MaximumSumSubArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/graph_java/BreadthFirstTraversalGraph.java" afterPath="$PROJECT_DIR$/src/robillo/graph_java/BreadthFirstTraversalGraph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/graph_java/RepresentationOfGraph.java" afterPath="$PROJECT_DIR$/src/robillo/graph_java/RepresentationOfGraph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greedy_programming_java/ActivitySelectionProblem.java" afterPath="$PROJECT_DIR$/src/robillo/greedy_programming_java/ActivitySelectionProblem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greedy_programming_java/JobSequencingProblem.java" afterPath="$PROJECT_DIR$/src/robillo/greedy_programming_java/JobSequencingProblem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/greedy_programming_java/MaxEqualSumPossibleInThreeStacks.java" afterPath="$PROJECT_DIR$/src/robillo/greedy_programming_java/MaxEqualSumPossibleInThreeStacks.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hashmaps_java/LongestConsecutiveSubsequence.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps_java/LongestConsecutiveSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hashmaps_java/LongestSubset.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps_java/LongestSubset.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hashmaps_java/MakeStringsAnagram.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps_java/MakeStringsAnagram.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hashmaps_java/MaximumFrequencyNumber.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps_java/MaximumFrequencyNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hashmaps_java/NearestRepetition.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps_java/NearestRepetition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hashmaps_java/PairSumToZero.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps_java/PairSumToZero.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hashmaps_java/PairWithDifferenceK.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps_java/PairWithDifferenceK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hashmaps_java/PrintArrayIntersection.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps_java/PrintArrayIntersection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hashmaps_java/VerticalOrder.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps_java/VerticalOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/hashmaps_java/ZeroSumSubArray.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps_java/ZeroSumSubArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/linked_list_java/LinkedList.java" afterPath="$PROJECT_DIR$/src/robillo/linked_list_java/LinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/linked_list_java/Node.java" afterPath="$PROJECT_DIR$/src/robillo/linked_list_java/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/linked_list_java/OddOrEvenLengthLinkedList.java" afterPath="$PROJECT_DIR$/src/robillo/linked_list_java/OddOrEvenLengthLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/matrix_java/PrintUniqueRowsBooleanMatrix.java" afterPath="$PROJECT_DIR$/src/robillo/matrix_java/PrintUniqueRowsBooleanMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/matrix_java/SearchInRowAndColumnwiseSortedMatrix.java" afterPath="$PROJECT_DIR$/src/robillo/matrix_java/SearchInRowAndColumnwiseSortedMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/oops_java/TestComplexNumbers.java" afterPath="$PROJECT_DIR$/src/robillo/oops_java/TestComplexNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/patterns/PatternEight.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternEight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/patterns/PatternFive.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternFive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/patterns/PatternFour.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternFour.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/patterns/PatternOne.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternOne.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/patterns/PatternSeven.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternSeven.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/patterns/PatternSix.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternSix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/patterns/PatternThree.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternThree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/patterns/PatternTwo.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternTwo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/queue_java/Node.java" afterPath="$PROJECT_DIR$/src/robillo/queue_java/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/queue_java/Queue.java" afterPath="$PROJECT_DIR$/src/robillo/queue_java/Queue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/queue_java/QueueTest.java" afterPath="$PROJECT_DIR$/src/robillo/queue_java/QueueTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/AllIndices.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/AllIndices.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/CheckNumber.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/CheckNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/CheckPallindrome.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/CheckPallindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/CountZeroes.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/CountZeroes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/FindFlags.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/FindFlags.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/FirstIndex.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/FirstIndex.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/Flags.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/Flags.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/GeometricSum.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/GeometricSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/InterLeavings.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/InterLeavings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/KeypadStringsTwo.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/KeypadStringsTwo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/MergeSort.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/MergeSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/MinimumCount.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/MinimumCount.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/MultiplyTwoIntegers.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/MultiplyTwoIntegers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/NumberOfDigits.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/NumberOfDigits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/PrintNumbers.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/PrintNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/PrintSubSequencesOfAString.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/PrintSubSequencesOfAString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/RemoveDuplicates.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/RemoveDuplicates.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/ReplaceCharacter.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/ReplaceCharacter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/ReplacePi.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/ReplacePi.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/ReturnAllCodesString.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/ReturnAllCodesString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/ReturnKeypadStrings.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/ReturnKeypadStrings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/Staircase.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/Staircase.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/StringToInteger.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/StringToInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/SumOfArray.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/SumOfArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/SumOfDigits.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/SumOfDigits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/XToPowerN.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/XToPowerN.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion_java/quick_sort.java" afterPath="$PROJECT_DIR$/src/robillo/recursion_java/quick_sort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/stack_java/ArrayStack.java" afterPath="$PROJECT_DIR$/src/robillo/stack_java/ArrayStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/stack_java/MaxEqualSumPossibleInThreeStacks.java" afterPath="$PROJECT_DIR$/src/robillo/stack_java/MaxEqualSumPossibleInThreeStacks.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/stack_java/Node.java" afterPath="$PROJECT_DIR$/src/robillo/stack_java/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/stack_java/Stack.java" afterPath="$PROJECT_DIR$/src/robillo/stack_java/Stack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/stack_java/StackTest.java" afterPath="$PROJECT_DIR$/src/robillo/stack_java/StackTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/EqualSumPair.java" afterPath="$PROJECT_DIR$/src/robillo/test/EqualSumPair.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/FindSmallestSubstring.java" afterPath="$PROJECT_DIR$/src/robillo/test/FindSmallestSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/MaximumProfit.java" afterPath="$PROJECT_DIR$/src/robillo/test/MaximumProfit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test_2/PrintIncreasingNumbers.java" afterPath="$PROJECT_DIR$/src/robillo/test_2/PrintIncreasingNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test_2/PrintParenthesis.java" afterPath="$PROJECT_DIR$/src/robillo/test_2/PrintParenthesis.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test_2/StringsOfLengthK.java" afterPath="$PROJECT_DIR$/src/robillo/test_2/StringsOfLengthK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/trie_java/TrieDelete.java" afterPath="$PROJECT_DIR$/src/robillo/trie_java/TrieDelete.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/trie_java/TrieInsertAndSearch.java" afterPath="$PROJECT_DIR$/src/robillo/trie_java/TrieInsertAndSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change afterPath="$PROJECT_DIR$/src/mauryasameer/trees_java/TopThreeElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -163,22 +18,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sudoku.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/robillo/backtracking_java/Sudoku.java">
+      <file leaf-file-name="TreeMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mauryasameer/trees_java/TreeMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="170">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mauryasameer/trees_java/TreeMain.java">
+      <file leaf-file-name="TopThreeElement.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mauryasameer/trees_java/TopThreeElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="187">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mauryasameer/trees_java/BinaryNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrepareTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mauryasameer/trees_java/PrepareTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mauryasameer/trees_java/PrintTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -187,8 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/robillo/binary_tree_java/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-              <folding />
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -218,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/recursion_java/StringToInteger.java" />
         <option value="$PROJECT_DIR$/src/recursion_java/Staircase.java" />
         <option value="$PROJECT_DIR$/src/recursion_java/ReplacePi.java" />
         <option value="$PROJECT_DIR$/src/recursion_java/quick_sort.java" />
@@ -269,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/robillo/backtracking_java/Sudoku.java" />
         <option value="$PROJECT_DIR$/src/mauryasameer/trees_java/main_tree_func.java" />
         <option value="$PROJECT_DIR$/src/mauryasameer/trees_java/TreeMain.java" />
+        <option value="$PROJECT_DIR$/src/mauryasameer/trees_java/TopThreeElement.java" />
       </list>
     </option>
   </component>
@@ -278,29 +157,18 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-219" />
-    <option name="y" value="112" />
-    <option name="width" value="1434" />
-    <option name="height" value="938" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-220" />
+    <option name="y" value="111" />
+    <option name="width" value="1435" />
+    <option name="height" value="939" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
+    <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="false" />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -317,13 +185,6 @@
               <item name="programming_questions" type="b2602c69:ProjectViewProjectNode" />
               <item name="programming_questions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mauryasameer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programming_questions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programming_questions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mauryasameer" type="462c0819:PsiDirectoryNode" />
               <item name="trees_java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -336,8 +197,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -354,121 +216,6 @@
       <recent name="$PROJECT_DIR$/src/patterns" />
     </key>
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Sam/Trees/binary_node.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Sam/Trees/main_tree_func.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Sam/Trees/prepare_tree.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Sam/Trees/print_tree.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -481,125 +228,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AlphaCode">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+    </configuration>
     <configuration name="AlphaCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="robillo.dynamic_programming_java.AlphaCode" />
+      <module name="programming_questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="robillo.dynamic_programming_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="robillo.dynamic_programming_java.AlphaCode" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="programming_questions" />
-      <envs />
     </configuration>
     <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="robillo.dynamic_programming_java.LongestIncreasingSubsequence" />
+      <module name="programming_questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="robillo.dynamic_programming_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="robillo.dynamic_programming_java.LongestIncreasingSubsequence" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="programming_questions" />
-      <envs />
     </configuration>
     <configuration name="LootHouses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="robillo.dynamic_programming_java.LootHouses" />
+      <module name="programming_questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="robillo.dynamic_programming_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="robillo.dynamic_programming_java.LootHouses" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="programming_questions" />
-      <envs />
     </configuration>
     <configuration name="MaximumSumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="robillo.dynamic_programming_java.MaximumSumSubArray" />
+      <module name="programming_questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="robillo.dynamic_programming_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="robillo.dynamic_programming_java.MaximumSumSubArray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="programming_questions" />
-      <envs />
     </configuration>
     <configuration name="PreorderTreeTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="robillo.binary_tree_java.PreorderTreeTraversal" />
+      <module name="programming_questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="robillo.binary_tree_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="robillo.binary_tree_java.PreorderTreeTraversal" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="programming_questions" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="WIDTH" value="0" />
-      <option name="HEIGHT" value="0" />
-      <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -609,17 +302,13 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -632,37 +321,31 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.AlphaCode" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PreorderTreeTraversal" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MaximumSumSubArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LootHouses" />
+    <list>
+      <item itemvalue="Application.AlphaCode" />
+      <item itemvalue="Application.PreorderTreeTraversal" />
+      <item itemvalue="Application.MaximumSumSubArray" />
+      <item itemvalue="Application.LongestIncreasingSubsequence" />
+      <item itemvalue="Application.LootHouses" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LootHouses" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MaximumSumSubArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PreorderTreeTraversal" />
-        <item index="4" class="java.lang.String" itemvalue="Application.AlphaCode" />
+      <list>
+        <item itemvalue="Application.LootHouses" />
+        <item itemvalue="Application.LongestIncreasingSubsequence" />
+        <item itemvalue="Application.MaximumSumSubArray" />
+        <item itemvalue="Application.PreorderTreeTraversal" />
+        <item itemvalue="Application.AlphaCode" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1031,35 +714,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27085853" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49722221" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2811159" sideWeight="0.49369368" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25751072" sideWeight="0.5063063" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49570817" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32889965" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50429183" side_tool="true" weight="0.32889965" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3297568" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" weight="0.27085853" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49722221" weight="0.32889965" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32889965" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49369368" visible="true" weight="0.20703125" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39903265" />
+      <window_info id="Favorites" order="5" sideWeight="0.5063063" side_tool="true" weight="0.25751072" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49570817" weight="0.32889965" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32769045" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1097,37 +780,8 @@
     <breakpoint-manager>
       <option name="time" value="1" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/robillo/recursion_java/InterLeavings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="70" lean-forward="false" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="1059" column="13" lean-forward="false" selection-start-line="1059" selection-start-column="13" selection-end-line="1059" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/test/FindSmallestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/test/MaximumProfit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/recursion_java/KeypadStringsTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -1138,56 +792,56 @@
     <entry file="file://$PROJECT_DIR$/src/robillo/recursion_java/PrintSubSequencesOfAString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/recursion_java/ReturnKeypadStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="58" selection-end-column="5" />
+          <caret line="28" selection-start-line="28" selection-end-line="58" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/recursion_java/ReturnAllCodesString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/recursion_java/FindFlags.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="59" selection-end-column="5" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="59" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/oops_java/TestComplexNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="65" column="43" lean-forward="false" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/test_2/StringsOfLengthK.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="19" selection-end-column="5" />
+          <caret line="15" selection-start-line="15" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/test_2/PrintParenthesis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
-          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/test_2/PrintIncreasingNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1208,35 +862,35 @@
     <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/CheckPowerOf4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="35" selection-end-column="5" />
+          <caret line="6" selection-start-line="6" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/NumberOfOnes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="20" selection-end-column="5" />
+          <caret line="6" selection-start-line="6" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/FindOnlySetBitPosition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/CheckPowerOf2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/ClearAllBitsFromMsb.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -1250,7 +904,7 @@
     <entry file="file://$PROJECT_DIR$/src/robillo/dynamic_programming_java/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
-          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1261,13 +915,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3233">
-          <caret line="113" column="28" lean-forward="false" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/SetIthBit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1278,28 +926,28 @@
     <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/CheckMultipleOfFour.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/CheckEvenOrOdd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/FindFirstSetBit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/ClearAllBitsFromLsb.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="84" lean-forward="false" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+          <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
         </state>
       </provider>
     </entry>
@@ -1313,21 +961,21 @@
     <entry file="file://$PROJECT_DIR$/src/robillo/binary_tree_java/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/binary_tree_java/CountWordsInString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/dynamic_programming_java/AlphaCode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1004">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
@@ -1341,46 +989,28 @@
     <entry file="file://$PROJECT_DIR$/src/robillo/dynamic_programming_java/MaximumSumSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/dynamic_programming_java/LootHouses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="52" column="6" lean-forward="false" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java" />
     <entry file="file://$PROJECT_DIR$/src/robillo/dynamic_programming_java/Boredom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HackWithInfyTest.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/text/DecimalFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="380" column="13" lean-forward="false" selection-start-line="380" selection-start-column="13" selection-end-line="380" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/text/NumberFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="289" column="24" lean-forward="false" selection-start-line="289" selection-start-column="24" selection-end-line="289" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/text/DecimalFormat.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/text/NumberFormat.java" />
     <entry file="file://$PROJECT_DIR$/src/robillo/HackWithInfyTest/InTheFuture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
@@ -1391,22 +1021,20 @@
     <entry file="file://$PROJECT_DIR$/src/robillo/HackWithInfyTest/WeddingPlanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
-          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/test/EqualSumPair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="36" />
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/hashmaps_java/PairSumToZero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-272" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/HackWithInfyTest/WholeMinuteDilemma.java">
@@ -1426,32 +1054,56 @@
     <entry file="file://$PROJECT_DIR$/src/robillo/backtracking_java/RatInAMaze.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
-          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding />
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mauryasameer/trees_java/BinaryNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mauryasameer/trees_java/PrepareTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/binary_tree_java/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding />
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mauryasameer/trees_java/PrintTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/backtracking_java/Sudoku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mauryasameer/trees_java/TreeMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mauryasameer/trees_java/TopThreeElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
