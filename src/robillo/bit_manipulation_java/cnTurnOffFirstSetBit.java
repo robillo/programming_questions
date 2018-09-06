@@ -2,7 +2,7 @@ package robillo.bit_manipulation_java;
 
 import java.util.Scanner;
 
-public class TurnOffFirstSetBit {
+public class cnTurnOffFirstSetBit {
 
     /*You are given an integer N.
      You need to make first set bit of binary

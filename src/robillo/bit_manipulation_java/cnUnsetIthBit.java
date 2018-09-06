@@ -2,7 +2,7 @@ package robillo.bit_manipulation_java;
 
 import java.util.Scanner;
 
-public class UnsetIthBit {
+public class cnUnsetIthBit {
 
     /*You are given two integers N and i.
     You need to make ith bit of binary representation of N to 0 and return the updated N.

@@ -2,7 +2,7 @@ package robillo.bit_manipulation_java;
 
 import java.util.Scanner;
 
-public class CheckEvenOrOdd {
+public class cnCheckEvenOrOdd {
 
     /*You are given an integer N.
     You need to check if it is odd or even*/

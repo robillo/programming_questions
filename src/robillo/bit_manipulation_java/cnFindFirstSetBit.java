@@ -2,7 +2,7 @@ package robillo.bit_manipulation_java;
 
 import java.util.Scanner;
 
-public class FindFirstSetBit {
+public class cnFindFirstSetBit {
 
     /*You are given an integer N.
      You need to return an integer M,

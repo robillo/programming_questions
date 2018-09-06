@@ -2,7 +2,7 @@ package robillo.bit_manipulation_java;
 
 import java.util.Scanner;
 
-public class FindOnlySetBitPosition {
+public class cnFindOnlySetBitPosition {
 
     /*You are given an integer N.
     You need to find position of the only set bit in its binary representation

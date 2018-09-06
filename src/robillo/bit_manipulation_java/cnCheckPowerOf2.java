@@ -2,7 +2,7 @@ package robillo.bit_manipulation_java;
 
 import java.util.Scanner;
 
-public class CheckPowerOf2 {
+public class cnCheckPowerOf2 {
 
     /*You are given an integer N.
     You need to check if it is power of two or not*/
