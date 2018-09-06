@@ -1,10 +1,27 @@
 package robillo.patterns;
 
+import java.util.Scanner;
+
 public class PatternThree {
 
-    private static int n = 3;
+    /*
+          *
+         ***
+        *****
+         ***
+          *
+     */
+
 
     public static void main(String[] args) {
+
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+
+        printPattern(n);
+    }
+
+    private static void printPattern(int n) {
 
         for(int i=0; i<3; i++) {
             for(int j=n-i; j>0; j--) {

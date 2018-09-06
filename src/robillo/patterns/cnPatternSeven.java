@@ -2,7 +2,7 @@ package robillo.patterns;
 
 import java.util.Scanner;
 
-public class PatternSeven {
+public class cnPatternSeven {
 
     public static void main(String[] args) {
 

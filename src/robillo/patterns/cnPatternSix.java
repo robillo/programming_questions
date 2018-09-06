@@ -2,7 +2,7 @@ package robillo.patterns;
 
 import java.util.Scanner;
 
-public class PatternSix {
+public class cnPatternSix {
 
     public static void main(String[] args) {
 		/* Your class should be named Solution.

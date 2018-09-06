@@ -2,6 +2,29 @@ package robillo.patterns;
 
 public class PatternFour {
 
+    /*
+     _ _ _ _
+            |
+            |
+            |
+            |
+             _ _ _ _
+                    |
+                    |
+                    |
+                    |
+                     _ _ _ _
+                            |
+                            |
+                            |
+                            |
+                             _ _ _ _
+                                    |
+                                    |
+                                    |
+                                    |
+     */
+
     private static int n = 4;
 
     public static void main(String[] args) {
