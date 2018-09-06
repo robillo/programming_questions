@@ -1,4 +1,4 @@
-package mauryasameer.trees_java;
+package robillo.mauryasameer.trees_java;
 
 public class BinaryNode<T> {
     T data;

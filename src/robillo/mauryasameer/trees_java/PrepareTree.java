@@ -1,4 +1,4 @@
-package mauryasameer.trees_java;
+package robillo.mauryasameer.trees_java;
 import java.util.*;
 public class PrepareTree {
     public static BinaryNode<Integer> prepare(){
