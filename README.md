@@ -97,3 +97,13 @@ This repositories hosts various programming questions that one person should cov
 ## LINKED LISTS QUESTIONS
 
 ## ARRAYS QUESTIONS
+
+## MATRIX QUESTIONS
+
+1. Search in a row wise and column wise sorted matrix
+   (robillo.matrix_java.SearchInRowAndColumnwiseSortedMatrix)
+   
+2. Print unique rows in a given boolean matrix
+   (robillo.matrix_java.PrintUniqueRowsBooleanMatrix)
+   
+3. (robillo.matrix_java.MaxSizeSquareSubMatrixWithOnes)
