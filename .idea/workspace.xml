@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/patterns/cnPatternNine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/patterns/cnPatternTen.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/patterns/PatternEight.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/cnPatternEight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/patterns/PatternOne.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/cnPatternOne.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/patterns/PatternSeven.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/cnPatternSeven.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/patterns/PatternSix.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/cnPatternSix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/matrix_java/MaxSizeSquareSubMatrixWithOnes.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/robillo/patterns/PatternFive.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternFive.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/robillo/patterns/PatternFour.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternFour.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/robillo/patterns/PatternThree.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternThree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/robillo/patterns/PatternTwo.java" afterPath="$PROJECT_DIR$/src/robillo/patterns/PatternTwo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,101 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cnClearAllBitsFromMsb.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnClearAllBitsFromMsb.java">
+      <file leaf-file-name="MaxSizeSquareSubMatrixWithOnes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/robillo/matrix_java/MaxSizeSquareSubMatrixWithOnes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cnFlipASpecificBit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnFlipASpecificBit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PatternTwo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/robillo/patterns/PatternTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cnPatternOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cnPatternEight.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternEight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cnPatternNine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternNine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cnPatternTen.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternTen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
-              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PatternFive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/robillo/patterns/PatternFive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PatternFour.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/robillo/patterns/PatternFour.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PatternThree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/robillo/patterns/PatternThree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="303">
+              <caret line="68" column="64" lean-forward="false" selection-start-line="68" selection-start-column="64" selection-end-line="68" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -157,8 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oops_java/TestComplexNumbers.java" />
-        <option value="$PROJECT_DIR$/src/test_2/StringsOfLengthK.java" />
         <option value="$PROJECT_DIR$/src/test_2/PrintParenthesis.java" />
         <option value="$PROJECT_DIR$/src/test_2/PrintIncreasingNumbers.java" />
         <option value="$PROJECT_DIR$/src/bit_manipulation_java/SetIthBit.java" />
@@ -208,6 +107,8 @@
         <option value="$PROJECT_DIR$/src/robillo/patterns/PatternFour.java" />
         <option value="$PROJECT_DIR$/src/robillo/patterns/PatternThree.java" />
         <option value="$PROJECT_DIR$/src/robillo/patterns/PatternTwo.java" />
+        <option value="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnTemp.java" />
+        <option value="$PROJECT_DIR$/src/robillo/matrix_java/MaxSizeSquareSubMatrixWithOnes.java" />
       </list>
     </option>
   </component>
@@ -236,6 +137,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -260,15 +164,12 @@
               <item name="programming_questions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="robillo" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="matrix_java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,15 +199,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PatternTwo">
-    <configuration name="PatternFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MaxSizeSquareSubMatrixWithOnes">
+    <configuration name="MaxSizeSquareSubMatrixWithOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="robillo.patterns.*" />
+          <option name="PATTERN" value="robillo.matrix_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="robillo.patterns.PatternFive" />
+      <option name="MAIN_CLASS_NAME" value="robillo.matrix_java.MaxSizeSquareSubMatrixWithOnes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -442,14 +343,14 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="cnPatternTen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="cnTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="robillo.patterns.*" />
+          <option name="PATTERN" value="robillo.bit_manipulation_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="robillo.patterns.cnPatternTen" />
+      <option name="MAIN_CLASS_NAME" value="robillo.bit_manipulation_java.cnTemp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -462,19 +363,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.cnPatternTen" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PatternFive" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PatternFour" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PatternThree" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PatternTwo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PatternFour" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PatternThree" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PatternTwo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.cnTemp" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MaxSizeSquareSubMatrixWithOnes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PatternTwo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PatternThree" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PatternFour" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PatternFive" />
-        <item index="4" class="java.lang.String" itemvalue="Application.cnPatternTen" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MaxSizeSquareSubMatrixWithOnes" />
+        <item index="1" class="java.lang.String" itemvalue="Application.cnTemp" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PatternTwo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PatternThree" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PatternFour" />
       </list>
     </recent_temporary>
   </component>
@@ -491,13 +392,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520305887625</updated>
-    </task>
-    <task id="LOCAL-00019" summary="stack : max possible equal sums in three stacks">
-      <created>1525001979592</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1525001979592</updated>
     </task>
     <task id="LOCAL-00020" summary="graph adjacency list representation">
       <created>1525018160207</created>
@@ -835,7 +729,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536229994853</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="patterns refactor">
+      <created>1536235102543</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1536235102544</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -859,7 +760,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26844016" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26844016" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32862645" sideWeight="0.49722221" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -883,7 +784,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="return keypad strings problem done. awesome feeling." />
     <MESSAGE value="subsequences of a string (recursive)" />
     <MESSAGE value="keypad strings two" />
     <MESSAGE value="recursion set 2 complete" />
@@ -908,7 +808,8 @@
     <MESSAGE value="search in bst" />
     <MESSAGE value="refactor" />
     <MESSAGE value="bit manipulation refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="bit manipulation refactor" />
+    <MESSAGE value="patterns refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="patterns refactor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -917,20 +818,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnTurnOffFirstSetBit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/dynamic_programming_java/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/dynamic_programming_java/CountStepsTo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -1155,7 +1042,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1163,7 +1049,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1171,7 +1056,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1179,7 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1187,79 +1070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnClearAllBitsFromMsb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnFlipASpecificBit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternEight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternNine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternTen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/PatternFive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/PatternFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/PatternThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1267,6 +1077,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnFlipASpecificBit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnClearAllBitsFromMsb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/cnPatternTen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/PatternFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/PatternFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robillo/patterns/PatternThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnTemp.java" />
+    <entry file="file://$PROJECT_DIR$/src/robillo/matrix_java/MaxSizeSquareSubMatrixWithOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="68" column="64" lean-forward="false" selection-start-line="68" selection-start-column="64" selection-end-line="68" selection-end-column="64" />
           <folding />
         </state>
       </provider>
