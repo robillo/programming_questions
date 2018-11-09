@@ -106,4 +106,5 @@ This repositories hosts various programming questions that one person should cov
 2. Print unique rows in a given boolean matrix
    (robillo.matrix_java.PrintUniqueRowsBooleanMatrix)
    
-3. (robillo.matrix_java.MaxSizeSquareSubMatrixWithOnes)
+3. Maximum size square sub-matrix with all 1s
+   (robillo.matrix_java.MaxSizeSquareSubMatrixWithOnes)
