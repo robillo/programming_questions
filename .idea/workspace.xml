@@ -2,150 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e51294d-3e02-4286-bcc7-f76d5bb63ef1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/sorting/BubbleSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/sorting/InsertionSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/sorting/MergeSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/sorting/QuickSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robillo/sorting/SelectionSort.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/robillo/HackWithInfyTest/InTheFuture.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/robillo/HackWithInfyTest/IsPossible.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/robillo/HackWithInfyTest/WeddingPlanner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/robillo/HackWithInfyTest/WholeMinuteDilemma.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/robillo/mauryasameer/trees_java/BinaryNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/robillo/mauryasameer/trees_java/PrepareTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/robillo/mauryasameer/trees_java/PrintTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/robillo/mauryasameer/trees_java/TopThreeElement.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/robillo/mauryasameer/trees_java/TreeMain.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/BreakWords.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/BreakWords.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/CheckPermutation.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/CheckPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/CompressTheString.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/CompressTheString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/CountPlatforms.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/CountPlatforms.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/DuplicateInArray.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/DuplicateInArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/LargestUniqueSubstring.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/LargestUniqueSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/LeaderInArray.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/LeaderInArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/MaximiseSumPath.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/MaximiseSumPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/MergeTwoSortedArrays.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/MergeTwoSortedArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/PallindromeSubstrings.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/PallindromeSubstrings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/PrintLikeAWave.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/PrintLikeAWave.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/PrintSpiral.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/PrintSpiral.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/PushZeroesToEnd.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/PushZeroesToEnd.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/ReverseEachWord.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/ReverseEachWord.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/ReverseStringWordWise.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/ReverseStringWordWise.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/RotateMatrix.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/RotateMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/arrays_and_strings_java/Sort012.java" afterPath="$PROJECT_DIR$/src/robillo/arrays_and_strings/Sort012.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/backtracking_java/RatInAMaze.java" afterPath="$PROJECT_DIR$/src/robillo/backtracking/RatInAMaze.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/backtracking_java/Sudoku.java" afterPath="$PROJECT_DIR$/src/robillo/backtracking/Sudoku.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_search_tree_java/BinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_search_tree/BinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_search_tree_java/Node.java" afterPath="$PROJECT_DIR$/src/robillo/binary_search_tree/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_search_tree_java/SearchBst.java" afterPath="$PROJECT_DIR$/src/robillo/binary_search_tree/SearchBst.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/BinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/BinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/CharCountAtSamePositionAsEnglishCharacters.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/CharCountAtSamePositionAsEnglishCharacters.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/CheckIfTreeBalanced.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/CheckIfTreeBalanced.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/CountWordsInString.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/CountWordsInString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/DeleteLeafValueWithValueX.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/DeleteLeafValueWithValueX.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/DividingStringInNEqualParts.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/DividingStringInNEqualParts.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/FullNodesInBinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/FullNodesInBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/HalfNodesBinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/HalfNodesBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/InOrderTreeTraversalWithoutRecursion.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/InOrderTreeTraversalWithoutRecursion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/InorderTreeTraversal.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/InorderTreeTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/KthCharOfDecryptedString.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/KthCharOfDecryptedString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/LeafNodesBinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/LeafNodesBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/LevelOrderTraversalLineByLineOfTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/LevelOrderTraversalLineByLineOfTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/LevelOrderTreeTraversal.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/LevelOrderTreeTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/LevelWithMaxNumberOfNodes.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/LevelWithMaxNumberOfNodes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/LongestSpanSameSumTwoBinaryArrays.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/LongestSpanSameSumTwoBinaryArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/MaxAndMinValueInATree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/MaxAndMinValueInATree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/Node.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/PostOrderTreeTraversal.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/PostOrderTreeTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/PreorderTreeTraversal.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/PreorderTreeTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/PrintNodesAtKthDistanceFromRoot.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/PrintNodesAtKthDistanceFromRoot.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/Queue.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/Queue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/ReplaceNodeWithDepthInBinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/ReplaceNodeWithDepthInBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/SecondMostFreqCharInString.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/SecondMostFreqCharInString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/SizeOfBinaryTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/SizeOfBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/SumOfAllNodesOfTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/SumOfAllNodesOfTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/binary_tree_java/SumOfNodesAtKthLevelOfTree.java" afterPath="$PROJECT_DIR$/src/robillo/binary_tree/SumOfNodesAtKthLevelOfTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnCheckEvenOrOdd.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnCheckEvenOrOdd.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnCheckMultipleOfFour.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnCheckMultipleOfFour.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnCheckPowerOf2.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnCheckPowerOf2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnCheckPowerOf4.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnCheckPowerOf4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnClearAllBitsFromLsb.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnClearAllBitsFromLsb.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnClearAllBitsFromMsb.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnClearAllBitsFromMsb.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnFindFirstSetBit.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnFindFirstSetBit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnFindOnlySetBitPosition.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnFindOnlySetBitPosition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnFlipASpecificBit.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnFlipASpecificBit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnNumberOfOnes.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnNumberOfOnes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnSetIthBit.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnSetIthBit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnTurnOffFirstSetBit.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnTurnOffFirstSetBit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnUnsetIthBit.java" afterPath="$PROJECT_DIR$/src/robillo/bit_manipulation/cnUnsetIthBit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/AlphaCode.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming/AlphaCode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/Boredom.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming/Boredom.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/CountStepsTo1.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming/CountStepsTo1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/Fibonacci.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming/Fibonacci.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/LongestIncreasingSubsequence.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming/LongestIncreasingSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/LootHouses.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming/LootHouses.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/dynamic_programming_java/MaximumSumSubArray.java" afterPath="$PROJECT_DIR$/src/robillo/dynamic_programming/MaximumSumSubArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/graph_java/BreadthFirstTraversalGraph.java" afterPath="$PROJECT_DIR$/src/robillo/graph/BreadthFirstTraversalGraph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/graph_java/RepresentationOfGraph.java" afterPath="$PROJECT_DIR$/src/robillo/graph/RepresentationOfGraph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/greedy_programming_java/ActivitySelectionProblem.java" afterPath="$PROJECT_DIR$/src/robillo/greedy_programming/ActivitySelectionProblem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/greedy_programming_java/JobSequencingProblem.java" afterPath="$PROJECT_DIR$/src/robillo/greedy_programming/JobSequencingProblem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/greedy_programming_java/MaxEqualSumPossibleInThreeStacks.java" afterPath="$PROJECT_DIR$/src/robillo/greedy_programming/MaxEqualSumPossibleInThreeStacks.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/hashmaps_java/LongestConsecutiveSubsequence.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps/LongestConsecutiveSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/hashmaps_java/LongestSubset.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps/LongestSubset.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/hashmaps_java/MakeStringsAnagram.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps/MakeStringsAnagram.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/hashmaps_java/MaximumFrequencyNumber.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps/MaximumFrequencyNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/hashmaps_java/NearestRepetition.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps/NearestRepetition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/hashmaps_java/PairSumToZero.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps/PairSumToZero.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/hashmaps_java/PairWithDifferenceK.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps/PairWithDifferenceK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/hashmaps_java/PrintArrayIntersection.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps/PrintArrayIntersection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/hashmaps_java/VerticalOrder.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps/VerticalOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/hashmaps_java/ZeroSumSubArray.java" afterPath="$PROJECT_DIR$/src/robillo/hashmaps/ZeroSumSubArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/linked_list_java/LinkedList.java" afterPath="$PROJECT_DIR$/src/robillo/linked_list/LinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/linked_list_java/Node.java" afterPath="$PROJECT_DIR$/src/robillo/linked_list/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/linked_list_java/OddOrEvenLengthLinkedList.java" afterPath="$PROJECT_DIR$/src/robillo/linked_list/OddOrEvenLengthLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/matrix_java/MaxSizeSquareSubMatrixWithOnes.java" afterPath="$PROJECT_DIR$/src/robillo/matrix/MaxSizeSquareSubMatrixWithOnes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/matrix_java/PrintUniqueRowsBooleanMatrix.java" afterPath="$PROJECT_DIR$/src/robillo/matrix/PrintUniqueRowsBooleanMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/matrix_java/SearchInRowAndColumnwiseSortedMatrix.java" afterPath="$PROJECT_DIR$/src/robillo/matrix/SearchInRowAndColumnwiseSortedMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/oops_java/TestComplexNumbers.java" afterPath="$PROJECT_DIR$/src/robillo/oops/TestComplexNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/queue_java/Node.java" afterPath="$PROJECT_DIR$/src/robillo/queue/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/queue_java/Queue.java" afterPath="$PROJECT_DIR$/src/robillo/queue/Queue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/queue_java/QueueTest.java" afterPath="$PROJECT_DIR$/src/robillo/queue/QueueTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/AllIndices.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/AllIndices.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/CheckNumber.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/CheckNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/CheckPallindrome.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/CheckPallindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/CountZeroes.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/CountZeroes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/FindFlags.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/FindFlags.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/FirstIndex.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/FirstIndex.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/Flags.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/Flags.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/GeometricSum.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/GeometricSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/InterLeavings.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/InterLeavings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/KeypadStringsTwo.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/KeypadStringsTwo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/MergeSort.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/MergeSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/MinimumCount.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/MinimumCount.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/MultiplyTwoIntegers.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/MultiplyTwoIntegers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/NumberOfDigits.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/NumberOfDigits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/PrintNumbers.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/PrintNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/PrintSubSequencesOfAString.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/PrintSubSequencesOfAString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/RemoveDuplicates.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/RemoveDuplicates.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/ReplaceCharacter.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/ReplaceCharacter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/ReplacePi.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/ReplacePi.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/ReturnAllCodesString.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/ReturnAllCodesString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/ReturnKeypadStrings.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/ReturnKeypadStrings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/Staircase.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/Staircase.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/StringToInteger.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/StringToInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/SumOfArray.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/SumOfArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/SumOfDigits.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/SumOfDigits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/XToPowerN.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/XToPowerN.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/recursion_java/quick_sort.java" afterPath="$PROJECT_DIR$/src/robillo/recursion/quick_sort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/stack_java/ArrayStack.java" afterPath="$PROJECT_DIR$/src/robillo/stack/ArrayStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/stack_java/MaxEqualSumPossibleInThreeStacks.java" afterPath="$PROJECT_DIR$/src/robillo/stack/MaxEqualSumPossibleInThreeStacks.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/stack_java/Node.java" afterPath="$PROJECT_DIR$/src/robillo/stack/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/stack_java/Stack.java" afterPath="$PROJECT_DIR$/src/robillo/stack/Stack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/stack_java/StackTest.java" afterPath="$PROJECT_DIR$/src/robillo/stack/StackTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/trie_java/TrieDelete.java" afterPath="$PROJECT_DIR$/src/robillo/trie/TrieDelete.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/robillo/trie_java/TrieInsertAndSearch.java" afterPath="$PROJECT_DIR$/src/robillo/trie/TrieInsertAndSearch.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/robillo/sorting/BubbleSort.java" afterPath="$PROJECT_DIR$/src/robillo/sorting/BubbleSort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -160,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/robillo/sorting/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="435">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -180,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectionSort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SelectionSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/robillo/sorting/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -286,11 +144,11 @@
         <option value="$PROJECT_DIR$/src/robillo/bit_manipulation_java/cnTemp.java" />
         <option value="$PROJECT_DIR$/src/robillo/matrix_java/MaxSizeSquareSubMatrixWithOnes.java" />
         <option value="$PROJECT_DIR$/src/robillo/matrix/MaxSizeSquareSubMatrixWithOnes.java" />
-        <option value="$PROJECT_DIR$/src/robillo/sorting/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/robillo/sorting/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/robillo/sorting/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/robillo/sorting/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/robillo/sorting/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/robillo/sorting/BubbleSort.java" />
       </list>
     </option>
   </component>
@@ -581,13 +439,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520305887625</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Queue: queue correction; Graph: graph breadth first traversal;">
-      <created>1525189398405</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1525189398406</updated>
     </task>
     <task id="LOCAL-00022" summary="stack: linked list implemented as a stack and its test class">
       <created>1525193206897</created>
@@ -925,7 +776,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541797263958</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="refactoring">
+      <created>1543876998955</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1543876998957</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -973,7 +831,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="keypad strings two" />
     <MESSAGE value="recursion set 2 complete" />
     <MESSAGE value="bit manipulations : set ith bit" />
     <MESSAGE value="unset ith bit" />
@@ -998,7 +855,8 @@
     <MESSAGE value="bit manipulation refactor" />
     <MESSAGE value="patterns refactor" />
     <MESSAGE value="maximum size square sub matrix with ones" />
-    <option name="LAST_COMMIT_MESSAGE" value="maximum size square sub matrix with ones" />
+    <MESSAGE value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1308,14 +1166,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/robillo/sorting/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/robillo/sorting/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1344,6 +1194,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robillo/sorting/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
